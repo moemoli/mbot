@@ -1,0 +1,6672 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8"
+    }
+  },
+  "resources": {
+    "string": [
+      {
+        "_attributes": {
+          "name": "Corpus"
+        },
+        "_text": "Corpus"
+      },
+      {
+        "_attributes": {
+          "name": "Grineer"
+        },
+        "_text": "Grineer"
+      },
+      {
+        "_attributes": {
+          "name": "Infested"
+        },
+        "_text": "Infestation"
+      },
+      {
+        "_attributes": {
+          "name": "Invasion"
+        },
+        "_text": "入侵"
+      },
+      {
+        "_attributes": {
+          "name": "Orokin"
+        },
+        "_text": "Orokin"
+      },
+      {
+        "_attributes": {
+          "name": "Owned"
+        },
+        "_text": "已拥有"
+      },
+      {
+        "_attributes": {
+          "name": "Sentient"
+        },
+        "_text": "Sentient"
+      },
+      {
+        "_attributes": {
+          "name": "abc_action_bar_home_description"
+        },
+        "_text": "转到首页"
+      },
+      {
+        "_attributes": {
+          "name": "abc_action_bar_up_description"
+        },
+        "_text": "转到上一层级"
+      },
+      {
+        "_attributes": {
+          "name": "abc_action_menu_overflow_description"
+        },
+        "_text": "更多选项"
+      },
+      {
+        "_attributes": {
+          "name": "abc_action_mode_done"
+        },
+        "_text": "完成"
+      },
+      {
+        "_attributes": {
+          "name": "abc_activity_chooser_view_see_all"
+        },
+        "_text": "查看全部"
+      },
+      {
+        "_attributes": {
+          "name": "abc_activitychooserview_choose_application"
+        },
+        "_text": "选择应用"
+      },
+      {
+        "_attributes": {
+          "name": "abc_capital_off"
+        },
+        "_text": "关闭"
+      },
+      {
+        "_attributes": {
+          "name": "abc_capital_on"
+        },
+        "_text": "开启"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_alt_shortcut_label"
+        },
+        "_text": "Alt+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_ctrl_shortcut_label"
+        },
+        "_text": "Ctrl+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_delete_shortcut_label"
+        },
+        "_text": "Delete 键"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_enter_shortcut_label"
+        },
+        "_text": "Enter 键"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_function_shortcut_label"
+        },
+        "_text": "Fn+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_meta_shortcut_label"
+        },
+        "_text": "Meta+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_shift_shortcut_label"
+        },
+        "_text": "Shift+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_space_shortcut_label"
+        },
+        "_text": "空格键"
+      },
+      {
+        "_attributes": {
+          "name": "abc_menu_sym_shortcut_label"
+        },
+        "_text": "Sym+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_prepend_shortcut_label"
+        },
+        "_text": "Menu+"
+      },
+      {
+        "_attributes": {
+          "name": "abc_search_hint"
+        },
+        "_text": "搜索…"
+      },
+      {
+        "_attributes": {
+          "name": "abc_searchview_description_clear"
+        },
+        "_text": "清除查询"
+      },
+      {
+        "_attributes": {
+          "name": "abc_searchview_description_query"
+        },
+        "_text": "搜索查询"
+      },
+      {
+        "_attributes": {
+          "name": "abc_searchview_description_search"
+        },
+        "_text": "搜索"
+      },
+      {
+        "_attributes": {
+          "name": "abc_searchview_description_submit"
+        },
+        "_text": "提交查询"
+      },
+      {
+        "_attributes": {
+          "name": "abc_searchview_description_voice"
+        },
+        "_text": "语音搜索"
+      },
+      {
+        "_attributes": {
+          "name": "abc_shareactionprovider_share_with"
+        },
+        "_text": "分享对象"
+      },
+      {
+        "_attributes": {
+          "name": "abc_shareactionprovider_share_with_application"
+        },
+        "_text": "与%s分享"
+      },
+      {
+        "_attributes": {
+          "name": "abc_toolbar_collapse_description"
+        },
+        "_text": "收起"
+      },
+      {
+        "_attributes": {
+          "name": "about"
+        },
+        "_text": "关于"
+      },
+      {
+        "_attributes": {
+          "name": "accept"
+        },
+        "_text": "接受"
+      },
+      {
+        "_attributes": {
+          "name": "accolades"
+        },
+        "_text": "荣誉成员"
+      },
+      {
+        "_attributes": {
+          "name": "accountCreated"
+        },
+        "_text": "账号已创建"
+      },
+      {
+        "_attributes": {
+          "name": "accountInfo"
+        },
+        "_text": "账号信息"
+      },
+      {
+        "_attributes": {
+          "name": "account_has_been_suspended"
+        },
+        "_text": "这个账号已被封禁。请联系 Warframe 客服。"
+      },
+      {
+        "_attributes": {
+          "name": "accuracy"
+        },
+        "_text": "精准度"
+      },
+      {
+        "_attributes": {
+          "name": "activeCompanion"
+        },
+        "_text": "激活的同伴"
+      },
+      {
+        "_attributes": {
+          "name": "activeNodeText"
+        },
+        "_text": "|node| - |planet|"
+      },
+      {
+        "_attributes": {
+          "name": "activeNodes"
+        },
+        "_text": "集团警报"
+      },
+      {
+        "_attributes": {
+          "name": "alad"
+        },
+        "_text": "Alad V"
+      },
+      {
+        "_attributes": {
+          "name": "alchemy"
+        },
+        "_text": "元素转换"
+      },
+      {
+        "_attributes": {
+          "name": "allCompanions"
+        },
+        "_text": "所有同伴"
+      },
+      {
+        "_attributes": {
+          "name": "alreadyRoaming"
+        },
+        "_text": "你的同伴正在轨道飞行器里到处跑！"
+      },
+      {
+        "_attributes": {
+          "name": "ambulas"
+        },
+        "_text": "Ambulas"
+      },
+      {
+        "_attributes": {
+          "name": "androidWarning"
+        },
+        "_text": "\\n 注意：确保在设备设置中下载了所选语言，否则可能会出现问题。"
+      },
+      {
+        "_attributes": {
+          "name": "anger"
+        },
+        "_text": "愤怒"
+      },
+      {
+        "_attributes": {
+          "name": "appSettings"
+        },
+        "_text": "应用程序"
+      },
+      {
+        "_attributes": {
+          "name": "app_name"
+        },
+        "_text": "Warframe Companion"
+      },
+      {
+        "_attributes": {
+          "name": "app_requires_internet"
+        },
+        "_text": "这个应用需要网络连接来更新内容以及访问账号信息。"
+      },
+      {
+        "_attributes": {
+          "name": "appleSignIn"
+        },
+        "_text": "使用 Apple ID 登录"
+      },
+      {
+        "_attributes": {
+          "name": "apple_login_failed"
+        },
+        "_text": "无法登录 iOS《Warframe》账户。请从 Apple App Store 下载《Warframe》并创建账户以使用本应用。"
+      },
+      {
+        "_attributes": {
+          "name": "apply"
+        },
+        "_text": "应用"
+      },
+      {
+        "_attributes": {
+          "name": "applydnastab"
+        },
+        "_text": "使用 DNA 稳定剂"
+      },
+      {
+        "_attributes": {
+          "name": "arbitersHexis"
+        },
+        "_text": "均衡仲裁者"
+      },
+      {
+        "_attributes": {
+          "name": "arcane_toast"
+        },
+        "_text": "赋能已升级！"
+      },
+      {
+        "_attributes": {
+          "name": "arcane_upgrade_description"
+        },
+        "_text": "是否消耗 |cost| 赋能来升级到等级 |newRank|？"
+      },
+      {
+        "_attributes": {
+          "name": "arena"
+        },
+        "_text": "竞技场"
+      },
+      {
+        "_attributes": {
+          "name": "armageddon"
+        },
+        "_text": "虚空决战"
+      },
+      {
+        "_attributes": {
+          "name": "armor"
+        },
+        "_text": "护甲"
+      },
+      {
+        "_attributes": {
+          "name": "arriveLabelText"
+        },
+        "_text": "在 |node|\\n停留 |timeRemaining|"
+      },
+      {
+        "_attributes": {
+          "name": "ascension"
+        },
+        "_text": "扬升"
+      },
+      {
+        "_attributes": {
+          "name": "assassination"
+        },
+        "_text": "刺杀"
+      },
+      {
+        "_attributes": {
+          "name": "assault"
+        },
+        "_text": "强袭"
+      },
+      {
+        "_attributes": {
+          "name": "assault_rifle_only"
+        },
+        "_text": "仅限突击步枪"
+      },
+      {
+        "_attributes": {
+          "name": "attspd"
+        },
+        "_text": "攻击速度"
+      },
+      {
+        "_attributes": {
+          "name": "augmented_enemy_armor"
+        },
+        "_text": "敌人护甲强化"
+      },
+      {
+        "_attributes": {
+          "name": "augmented_enemy_shields"
+        },
+        "_text": "敌人护盾强化"
+      },
+      {
+        "_attributes": {
+          "name": "authcode"
+        },
+        "_text": "验证码"
+      },
+      {
+        "_attributes": {
+          "name": "authentication_failed"
+        },
+        "_text": "身份验证失败；你已退出当前账号。"
+      },
+      {
+        "_attributes": {
+          "name": "authorization_required"
+        },
+        "_text": "可能需要身份验证"
+      },
+      {
+        "_attributes": {
+          "name": "axi"
+        },
+        "_text": "后纪"
+      },
+      {
+        "_attributes": {
+          "name": "axi_era"
+        },
+        "_text": "后世纪"
+      },
+      {
+        "_attributes": {
+          "name": "back"
+        },
+        "_text": "返回"
+      },
+      {
+        "_attributes": {
+          "name": "baroKiTeer"
+        },
+        "_text": "Baro Ki\\'Teer"
+      },
+      {
+        "_attributes": {
+          "name": "baruukTheme"
+        },
+        "_text": "Baruuk"
+      },
+      {
+        "_attributes": {
+          "name": "blockingAng"
+        },
+        "_text": "格挡角度"
+      },
+      {
+        "_attributes": {
+          "name": "bottomsheet_action_expand_halfway"
+        },
+        "_text": "展开到一半高度"
+      },
+      {
+        "_attributes": {
+          "name": "bow_only"
+        },
+        "_text": "仅限弓箭"
+      },
+      {
+        "_attributes": {
+          "name": "buydnastab"
+        },
+        "_text": "购买 DNA 稳定剂"
+      },
+      {
+        "_attributes": {
+          "name": "cambionDrift"
+        },
+        "_text": "魔胎之境"
+      },
+      {
+        "_attributes": {
+          "name": "cancel"
+        },
+        "_text": "取消"
+      },
+      {
+        "_attributes": {
+          "name": "cannot_retrieve"
+        },
+        "_text": "无法取回宠物，除非当前宠物被放入冷冻舱。"
+      },
+      {
+        "_attributes": {
+          "name": "capture"
+        },
+        "_text": "捕获"
+      },
+      {
+        "_attributes": {
+          "name": "cavia"
+        },
+        "_text": "科维兽"
+      },
+      {
+        "_attributes": {
+          "name": "cell_data"
+        },
+        "_text": "手机流量"
+      },
+      {
+        "_attributes": {
+          "name": "cell_data_now_enabled"
+        },
+        "_text": "手机流量现已启用。"
+      },
+      {
+        "_attributes": {
+          "name": "cell_data_off"
+        },
+        "_text": "手机流量在应用设置中关闭。是否启用手机流量？"
+      },
+      {
+        "_attributes": {
+          "name": "celldata_intention"
+        },
+        "_text": "这个应用希望通过手机流量来下载数据。"
+      },
+      {
+        "_attributes": {
+          "name": "cephalonSuda"
+        },
+        "_text": "中枢苏达"
+      },
+      {
+        "_attributes": {
+          "name": "ceres"
+        },
+        "_text": "谷神星"
+      },
+      {
+        "_attributes": {
+          "name": "character_counter_content_description"
+        },
+        "_text": "输入了 %1$d 个字符（上限为 %2$d 个）"
+      },
+      {
+        "_attributes": {
+          "name": "character_counter_overflowed_content_description"
+        },
+        "_text": "超出字符数限制（共 %1$d 个，上限为 %2$d 个）"
+      },
+      {
+        "_attributes": {
+          "name": "chat_addfriend"
+        },
+        "_text": "添加好友"
+      },
+      {
+        "_attributes": {
+          "name": "chat_addfriendmessage"
+        },
+        "_text": "你确定要将此用户添加为好友吗？"
+      },
+      {
+        "_attributes": {
+          "name": "chat_addfriendtitle"
+        },
+        "_text": "添加用户"
+      },
+      {
+        "_attributes": {
+          "name": "chat_authfail"
+        },
+        "_text": "授权失败"
+      },
+      {
+        "_attributes": {
+          "name": "chat_clanchat"
+        },
+        "_text": "氏族频道"
+      },
+      {
+        "_attributes": {
+          "name": "chat_conntimedout"
+        },
+        "_text": "连接超时。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_friendreqconfirm"
+        },
+        "_text": "好友请求已发送！"
+      },
+      {
+        "_attributes": {
+          "name": "chat_ignore"
+        },
+        "_text": "屏蔽"
+      },
+      {
+        "_attributes": {
+          "name": "chat_ignoring"
+        },
+        "_text": "|name| 正在屏蔽你。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_ipv6"
+        },
+        "_text": "聊天 IPv6"
+      },
+      {
+        "_attributes": {
+          "name": "chat_isoffline"
+        },
+        "_text": "|name| 已离线。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_isonline"
+        },
+        "_text": "|name| 已上线。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_listen"
+        },
+        "_text": "解除屏蔽"
+      },
+      {
+        "_attributes": {
+          "name": "chat_privchat"
+        },
+        "_text": "私人频道"
+      },
+      {
+        "_attributes": {
+          "name": "chat_search"
+        },
+        "_text": "搜索……"
+      },
+      {
+        "_attributes": {
+          "name": "chat_selectfriend"
+        },
+        "_text": "选择一个好友开始聊天！"
+      },
+      {
+        "_attributes": {
+          "name": "chat_selectopenchat"
+        },
+        "_text": "选择一个已打开的聊天"
+      },
+      {
+        "_attributes": {
+          "name": "chat_suspended"
+        },
+        "_text": "你使用该频道的权限已被暂停。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_talk"
+        },
+        "_text": "交谈"
+      },
+      {
+        "_attributes": {
+          "name": "chat_tapfriendsbutton"
+        },
+        "_text": "轻点好友按钮，然后选择一个玩家开始与其聊天！"
+      },
+      {
+        "_attributes": {
+          "name": "chat_typemessage"
+        },
+        "_text": "消息"
+      },
+      {
+        "_attributes": {
+          "name": "chat_unablesendlink"
+        },
+        "_text": "无法发送聊天链接。"
+      },
+      {
+        "_attributes": {
+          "name": "chat_unqualified"
+        },
+        "_text": "你目前没有使用该频道的资格。"
+      },
+      {
+        "_attributes": {
+          "name": "check_credentials"
+        },
+        "_text": "请检查你的凭证。"
+      },
+      {
+        "_attributes": {
+          "name": "checking_for_updates"
+        },
+        "_text": "正在检查更新……"
+      },
+      {
+        "_attributes": {
+          "name": "chinese_simplified"
+        },
+        "_text": "简体中文"
+      },
+      {
+        "_attributes": {
+          "name": "chinese_traditional"
+        },
+        "_text": "繁體中文"
+      },
+      {
+        "_attributes": {
+          "name": "chrgatt"
+        },
+        "_text": "蓄力攻击"
+      },
+      {
+        "_attributes": {
+          "name": "circuit"
+        },
+        "_text": "无尽回廊"
+      },
+      {
+        "_attributes": {
+          "name": "claim"
+        },
+        "_text": "等候领取"
+      },
+      {
+        "_attributes": {
+          "name": "clan"
+        },
+        "_text": "氏族"
+      },
+      {
+        "_attributes": {
+          "name": "clear_text_end_icon_content_description"
+        },
+        "_text": "清除文字"
+      },
+      {
+        "_attributes": {
+          "name": "clock_label"
+        },
+        "_text": "距离|newState|还有 |timeRemaining|"
+      },
+      {
+        "_attributes": {
+          "name": "clock_label_duviri"
+        },
+        "_text": "当前为|currentState|；|newState|倒计时：|timeRemaining|"
+      },
+      {
+        "_attributes": {
+          "name": "closewf"
+        },
+        "_text": "确定要退出吗？"
+      },
+      {
+        "_attributes": {
+          "name": "code_2fa"
+        },
+        "_text": "需要双重验证（2FA）代码"
+      },
+      {
+        "_attributes": {
+          "name": "cold"
+        },
+        "_text": "冰冻"
+      },
+      {
+        "_attributes": {
+          "name": "collect_btn"
+        },
+        "_text": "收回"
+      },
+      {
+        "_attributes": {
+          "name": "collect_extractor_message"
+        },
+        "_text": "这台采集机正在工作中。你确定要收回吗？此举将不会获得任何资源。"
+      },
+      {
+        "_attributes": {
+          "name": "collect_extractor_title"
+        },
+        "_text": "采集机未完成"
+      },
+      {
+        "_attributes": {
+          "name": "comboDur"
+        },
+        "_text": "连击持续时间"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_enable_button"
+        },
+        "_text": "启用"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_enable_text"
+        },
+        "_text": "您必须先启用 Google Play 服务，然后才能运行%1$s。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_enable_title"
+        },
+        "_text": "启用 Google Play 服务"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_install_button"
+        },
+        "_text": "安装"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_install_text"
+        },
+        "_text": "您的设备没有安装 Google Play 服务，因此无法运行%1$s。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_install_title"
+        },
+        "_text": "获取 Google Play 服务"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_notification_channel_name"
+        },
+        "_text": "Google Play 服务的适用范围"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_notification_ticker"
+        },
+        "_text": "Google Play服务出错"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_unknown_issue"
+        },
+        "_text": "%1$s无法访问 Google Play 服务，请重试。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_unsupported_text"
+        },
+        "_text": "您的设备不支持 Google Play 服务，因此无法运行%1$s。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_update_button"
+        },
+        "_text": "更新"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_update_text"
+        },
+        "_text": "您必须先更新 Google Play 服务，然后才能运行%1$s。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_update_title"
+        },
+        "_text": "更新 Google Play 服务"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_updating_text"
+        },
+        "_text": "Google Play 服务当前正在更新，因此您无法运行%1$s。"
+      },
+      {
+        "_attributes": {
+          "name": "common_google_play_services_wear_update_text"
+        },
+        "_text": "必须使用新版 Google Play 服务。该服务很快就会自行更新。"
+      },
+      {
+        "_attributes": {
+          "name": "common_open_on_phone"
+        },
+        "_text": "在手机上打开"
+      },
+      {
+        "_attributes": {
+          "name": "common_signin_button_text"
+        },
+        "_text": "登录"
+      },
+      {
+        "_attributes": {
+          "name": "common_signin_button_text_long"
+        },
+        "_text": "使用 Google 账号登录"
+      },
+      {
+        "_attributes": {
+          "name": "community"
+        },
+        "_text": "玩家社区"
+      },
+      {
+        "_attributes": {
+          "name": "companionretrieved"
+        },
+        "_text": "同伴已取回！"
+      },
+      {
+        "_attributes": {
+          "name": "conditions"
+        },
+        "_text": "状态："
+      },
+      {
+        "_attributes": {
+          "name": "config"
+        },
+        "_text": "配置"
+      },
+      {
+        "_attributes": {
+          "name": "confirm_friend_dialog"
+        },
+        "_text": "确认 |friendName| 为好友？"
+      },
+      {
+        "_attributes": {
+          "name": "conqeraTheme"
+        },
+        "_text": "征服"
+      },
+      {
+        "_attributes": {
+          "name": "contact_support"
+        },
+        "_text": "联系客服"
+      },
+      {
+        "_attributes": {
+          "name": "contact_support_detail"
+        },
+        "_text": "\\n\\n如果登录遇到问题，请联系 Warframe 客服以寻求帮助。"
+      },
+      {
+        "_attributes": {
+          "name": "contrastTheme"
+        },
+        "_text": "对比"
+      },
+      {
+        "_attributes": {
+          "name": "copy"
+        },
+        "_text": "复制"
+      },
+      {
+        "_attributes": {
+          "name": "copy_toast_msg"
+        },
+        "_text": "链接已复制到剪贴板"
+      },
+      {
+        "_attributes": {
+          "name": "corpusTheme"
+        },
+        "_text": "Corpus"
+      },
+      {
+        "_attributes": {
+          "name": "corruption"
+        },
+        "_text": "虚空洪流"
+      },
+      {
+        "_attributes": {
+          "name": "corruptvor"
+        },
+        "_text": "堕落的 Vor"
+      },
+      {
+        "_attributes": {
+          "name": "countedItem"
+        },
+        "_text": "|itemCount|x |itemName|"
+      },
+      {
+        "_attributes": {
+          "name": "creatorAccolade"
+        },
+        "_text": "玩家社区\\nWarframe 创作者"
+      },
+      {
+        "_attributes": {
+          "name": "credits_uc"
+        },
+        "_text": "现金"
+      },
+      {
+        "_attributes": {
+          "name": "critchance"
+        },
+        "_text": "暴击几率"
+      },
+      {
+        "_attributes": {
+          "name": "critmultiplier"
+        },
+        "_text": "暴击倍率"
+      },
+      {
+        "_attributes": {
+          "name": "cryogenic_leakage"
+        },
+        "_text": "低温外泄"
+      },
+      {
+        "_attributes": {
+          "name": "currencyCredits"
+        },
+        "_text": "现金"
+      },
+      {
+        "_attributes": {
+          "name": "currencyDucats"
+        },
+        "_text": "杜卡德金币"
+      },
+      {
+        "_attributes": {
+          "name": "currencyLabel"
+        },
+        "_text": "货币信息"
+      },
+      {
+        "_attributes": {
+          "name": "currencyPlatinum"
+        },
+        "_text": "白金"
+      },
+      {
+        "_attributes": {
+          "name": "currencyRegalAya"
+        },
+        "_text": "御品阿耶精华"
+      },
+      {
+        "_attributes": {
+          "name": "dailyStandingCap"
+        },
+        "_text": "每日声望上限"
+      },
+      {
+        "_attributes": {
+          "name": "damage_blast"
+        },
+        "_text": "爆炸"
+      },
+      {
+        "_attributes": {
+          "name": "damage_cold"
+        },
+        "_text": "冰冻"
+      },
+      {
+        "_attributes": {
+          "name": "damage_corrosive"
+        },
+        "_text": "腐蚀"
+      },
+      {
+        "_attributes": {
+          "name": "damage_electricity"
+        },
+        "_text": "电击"
+      },
+      {
+        "_attributes": {
+          "name": "damage_gas"
+        },
+        "_text": "毒气"
+      },
+      {
+        "_attributes": {
+          "name": "damage_heat"
+        },
+        "_text": "火焰"
+      },
+      {
+        "_attributes": {
+          "name": "damage_impact"
+        },
+        "_text": "冲击"
+      },
+      {
+        "_attributes": {
+          "name": "damage_magnetic"
+        },
+        "_text": "磁力"
+      },
+      {
+        "_attributes": {
+          "name": "damage_puncture"
+        },
+        "_text": "穿刺"
+      },
+      {
+        "_attributes": {
+          "name": "damage_radiation"
+        },
+        "_text": "辐射"
+      },
+      {
+        "_attributes": {
+          "name": "damage_slash"
+        },
+        "_text": "切割"
+      },
+      {
+        "_attributes": {
+          "name": "damage_toxin"
+        },
+        "_text": "毒素"
+      },
+      {
+        "_attributes": {
+          "name": "damage_viral"
+        },
+        "_text": "病毒"
+      },
+      {
+        "_attributes": {
+          "name": "damaged"
+        },
+        "_text": "瑕疵的"
+      },
+      {
+        "_attributes": {
+          "name": "damagelc"
+        },
+        "_text": "伤害"
+      },
+      {
+        "_attributes": {
+          "name": "darkLotusTheme"
+        },
+        "_text": "黑暗 Lotus"
+      },
+      {
+        "_attributes": {
+          "name": "dateStringFormat"
+        },
+        "_text": "|DAY|/|MONTH|/|YEAR|"
+      },
+      {
+        "_attributes": {
+          "name": "day"
+        },
+        "_text": "白昼"
+      },
+      {
+        "_attributes": {
+          "name": "deadlockTheme"
+        },
+        "_text": "僵局"
+      },
+      {
+        "_attributes": {
+          "name": "deception"
+        },
+        "_text": "欺骗"
+      },
+      {
+        "_attributes": {
+          "name": "defeat_boss_forces"
+        },
+        "_text": "击败 |bossName| 的部队"
+      },
+      {
+        "_attributes": {
+          "name": "defection"
+        },
+        "_text": "叛逃"
+      },
+      {
+        "_attributes": {
+          "name": "defense"
+        },
+        "_text": "防御"
+      },
+      {
+        "_attributes": {
+          "name": "deimos"
+        },
+        "_text": "火卫二"
+      },
+      {
+        "_attributes": {
+          "name": "departedLabelText"
+        },
+        "_text": "虚空商人于 \\n |timeRemaining| 后现身于 |node|"
+      },
+      {
+        "_attributes": {
+          "name": "descArbitersSyndicate1"
+        },
+        "_text": "可以使用堕落枪兵魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descArbitersSyndicate3"
+        },
+        "_text": "可以使用团队能量补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descArbitersSyndicate_1"
+        },
+        "_text": "受到卓越者堕落枪兵小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descArbitersSyndicate_2"
+        },
+        "_text": "受到卓越者堕落枪兵兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descCephalonSudaSyndicate1"
+        },
+        "_text": "可以使用护盾型无人机魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descCephalonSudaSyndicate3"
+        },
+        "_text": "可以使用团队护盾补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descCephalonSudaSyndicate_1"
+        },
+        "_text": "受到卓越者清道夫无人机小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descCephalonSudaSyndicate_2"
+        },
+        "_text": "受到卓越者清道夫无人机兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descCetusSyndicate1"
+        },
+        "_text": "Ostron 人对外来者充满戒心。与 Konzu 对话来了解如何提升你在他们中的声望。"
+      },
+      {
+        "_attributes": {
+          "name": "descCetusSyndicate2"
+        },
+        "_text": "Ostron 人对你的存在感到十分好奇，并愿意以他们的方式来教导你。"
+      },
+      {
+        "_attributes": {
+          "name": "descCetusSyndicate3"
+        },
+        "_text": "Ostron 人已经开始认可你融入他们的社会了。他们将会出售一些不卖给外人的商品给你。"
+      },
+      {
+        "_attributes": {
+          "name": "descCetusSyndicate4"
+        },
+        "_text": "你获得了 Ostron 人的信任，他们认同你是一位值得珍视的盟友。"
+      },
+      {
+        "_attributes": {
+          "name": "descCetusSyndicate5"
+        },
+        "_text": "你受到了 Ostron 长者们的尊重，也被孩童所喜爱。你可以选购他们最炙手可热的商品了。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiLabSyndicate1"
+        },
+        "_text": "虽然仍有很多事情需要完成，你帮助洛德完成了与科维兽的合作。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiLabSyndicate2"
+        },
+        "_text": "尽管存在分歧，但你与卡科维兽的合作取得了稳步进展。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiLabSyndicate3"
+        },
+        "_text": "尽管实验室发生了混乱和悲剧，但你对职责的警惕性丝毫没有减弱。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiLabSyndicate4"
+        },
+        "_text": "尽管灾难迫在眉睫，但你们的耐心正在结出硕果。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiLabSyndicate5"
+        },
+        "_text": "你、洛德和科维兽已经取得了突破。你们谁都不会和以前一样了。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiSyndicate1"
+        },
+        "_text": "你被召唤。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiSyndicate2"
+        },
+        "_text": "“母亲”从不后悔她的决定。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiSyndicate3"
+        },
+        "_text": "你证明了自己是善良且忠诚的。非常感谢。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiSyndicate4"
+        },
+        "_text": "我们无法奢望能从……Tenno 那里获得这样的帮助。"
+      },
+      {
+        "_attributes": {
+          "name": "descEntratiSyndicate5"
+        },
+        "_text": "你一直都是这个家族的救星。"
+      },
+      {
+        "_attributes": {
+          "name": "descHexSyndicate1"
+        },
+        "_text": "虽然仍有很多事情需要完成，你帮助洛德完成了与科维兽的合作。"
+      },
+      {
+        "_attributes": {
+          "name": "descHexSyndicate2"
+        },
+        "_text": "尽管存在分歧，但你与卡科维兽的合作取得了稳步进展。"
+      },
+      {
+        "_attributes": {
+          "name": "descHexSyndicate3"
+        },
+        "_text": "尽管实验室发生了混乱和悲剧，但你对职责的警惕性丝毫没有减弱。"
+      },
+      {
+        "_attributes": {
+          "name": "descHexSyndicate4"
+        },
+        "_text": "尽管灾难迫在眉睫，但你们的耐心正在结出硕果。"
+      },
+      {
+        "_attributes": {
+          "name": "descHexSyndicate5"
+        },
+        "_text": "这将是你终身难忘的派对，全霍瓦尼亚的人都受邀参加！"
+      },
+      {
+        "_attributes": {
+          "name": "descNecraloidSyndicate1"
+        },
+        "_text": "恭喜你！你的存在已被默许！"
+      },
+      {
+        "_attributes": {
+          "name": "descNecraloidSyndicate2"
+        },
+        "_text": "你的责任评级已升级到“可被忽略”。"
+      },
+      {
+        "_attributes": {
+          "name": "descNecraloidSyndicate3"
+        },
+        "_text": "最好的朋友！"
+      },
+      {
+        "_attributes": {
+          "name": "descNewLokaSyndicate1"
+        },
+        "_text": "可以使用远古治愈者魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descNewLokaSyndicate3"
+        },
+        "_text": "可以使用团队生命补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descNewLokaSyndicate_1"
+        },
+        "_text": "受到卓越者远古治愈者小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descNewLokaSyndicate_2"
+        },
+        "_text": "受到卓越者远古治愈者兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descPerrinSyndicate1"
+        },
+        "_text": "可以使用恐鸟魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descPerrinSyndicate3"
+        },
+        "_text": "可以使用团队能量补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descPerrinSyndicate_1"
+        },
+        "_text": "受到卓越者恐鸟小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descPerrinSyndicate_2"
+        },
+        "_text": "受到卓越者恐鸟兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descQuillsSyndicate1"
+        },
+        "_text": "夜羽们意识到了你的存在。与夜羽 Onkko 交谈来了解如何提升你的声望。"
+      },
+      {
+        "_attributes": {
+          "name": "descQuillsSyndicate2"
+        },
+        "_text": "夜羽们稍稍留意了你。他们看起来愿意让你参与到他们神秘的事业中。"
+      },
+      {
+        "_attributes": {
+          "name": "descQuillsSyndicate3"
+        },
+        "_text": "夜羽们认为你是一个有用的资源。他们会向你出售不外流的货物。"
+      },
+      {
+        "_attributes": {
+          "name": "descQuillsSyndicate4"
+        },
+        "_text": "经过千辛万苦，夜羽们信任了你。你是可以信赖的盟友。"
+      },
+      {
+        "_attributes": {
+          "name": "descQuillsSyndicate5"
+        },
+        "_text": "你是一名关键的特工，对他们而言非常重要，可以获得夜羽最炙手可热的货物。"
+      },
+      {
+        "_attributes": {
+          "name": "descRedVeilSyndicate1"
+        },
+        "_text": "可以使用疾冲者魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descRedVeilSyndicate3"
+        },
+        "_text": "可以使用弹药能量补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descRedVeilSyndicate_1"
+        },
+        "_text": "受到卓越疾冲者小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descRedVeilSyndicate_2"
+        },
+        "_text": "受到卓越疾冲者兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descSolarisSyndicate1"
+        },
+        "_text": "索联不会轻信他人，异世者。和 Eudico 谈谈吧。"
+      },
+      {
+        "_attributes": {
+          "name": "descSolarisSyndicate2"
+        },
+        "_text": "你能办好事情，但是你还没有证明你的忠诚。"
+      },
+      {
+        "_attributes": {
+          "name": "descSolarisSyndicate3"
+        },
+        "_text": "你看起来是个实在的伙计。当地人很愿意和你交易些零碎物品。"
+      },
+      {
+        "_attributes": {
+          "name": "descSolarisSyndicate4"
+        },
+        "_text": "你是处理危险情况的首选。一诺千金。"
+      },
+      {
+        "_attributes": {
+          "name": "descSolarisSyndicate5"
+        },
+        "_text": "圈内人，老兄。Eudico 的左右手。你和索联：一心同体。"
+      },
+      {
+        "_attributes": {
+          "name": "descSteelMeridianSyndicate1"
+        },
+        "_text": "可以使用滚子魅影"
+      },
+      {
+        "_attributes": {
+          "name": "descSteelMeridianSyndicate3"
+        },
+        "_text": "可以使用团队生命补给（大型）"
+      },
+      {
+        "_attributes": {
+          "name": "descSteelMeridianSyndicate_1"
+        },
+        "_text": "受到卓越者滚子小队追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descSteelMeridianSyndicate_2"
+        },
+        "_text": "受到卓越者滚子兵团追猎"
+      },
+      {
+        "_attributes": {
+          "name": "descSyndicate0"
+        },
+        "_text": "赚取声望推进集团进度"
+      },
+      {
+        "_attributes": {
+          "name": "descSyndicate2"
+        },
+        "_text": "可使用集团虚空遗物包"
+      },
+      {
+        "_attributes": {
+          "name": "descSyndicate4"
+        },
+        "_text": "可以使用武器强化 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "descSyndicate5"
+        },
+        "_text": "可以使用技能强化 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "descVentKidsSyndicate1"
+        },
+        "_text": "经验全无，从来没有尝试过的菜鸟，路人脸。你连 K 式悬浮板都没用过吧？"
+      },
+      {
+        "_attributes": {
+          "name": "descVentKidsSyndicate2"
+        },
+        "_text": "还不赖，但是在通风管里撑不过五分钟。"
+      },
+      {
+        "_attributes": {
+          "name": "descVentKidsSyndicate3"
+        },
+        "_text": "还算不错的伙计，你骑着仿佛是偷来的 K 式悬浮板。因为确实是偷来的。"
+      },
+      {
+        "_attributes": {
+          "name": "descVentKidsSyndicate4"
+        },
+        "_text": "敢作敢当的老兄。切克切克？"
+      },
+      {
+        "_attributes": {
+          "name": "descVentKidsSyndicate5"
+        },
+        "_text": "和你的亲生兄弟无话可说，但这里都是你的义亲。通风小子是义亲；不会和不是的家伙浪费时间。"
+      },
+      {
+        "_attributes": {
+          "name": "descVoxSyndicate1"
+        },
+        "_text": "我们监察，我们预测，我们斡旋。我们才刚开始。"
+      },
+      {
+        "_attributes": {
+          "name": "descVoxSyndicate2"
+        },
+        "_text": "对你颇具好感，小伙子。"
+      },
+      {
+        "_attributes": {
+          "name": "descVoxSyndicate3"
+        },
+        "_text": "很高兴你和我们一起。我们说，你就做。我们一直在等你，为他们带来可怕的毁灭。"
+      },
+      {
+        "_attributes": {
+          "name": "descVoxSyndicate4"
+        },
+        "_text": "我们当中最好的。你的作为很有传奇性。你的作为永远不为人知。"
+      },
+      {
+        "_attributes": {
+          "name": "descVoxSyndicate5"
+        },
+        "_text": "你是我们的一分子。我们共同从黑暗里走出来，重夺属于我们的将来。"
+      },
+      {
+        "_attributes": {
+          "name": "descZarimanSyndicate1"
+        },
+        "_text": "现在，坚守者对你……和他们自己来说，已经不仅仅是陌生人了。"
+      },
+      {
+        "_attributes": {
+          "name": "descZarimanSyndicate2"
+        },
+        "_text": "记忆带来悔恨……还有责任。"
+      },
+      {
+        "_attributes": {
+          "name": "descZarimanSyndicate3"
+        },
+        "_text": "信任已经开始生根发芽，即使是在这个荒凉之地。"
+      },
+      {
+        "_attributes": {
+          "name": "descZarimanSyndicate4"
+        },
+        "_text": "你已经复原了虚空所做的一切坏事，并且人性近在咫尺。"
+      },
+      {
+        "_attributes": {
+          "name": "descZarimanSyndicate5"
+        },
+        "_text": "你成为了「扎里曼号」和她仅存船员的救星。"
+      },
+      {
+        "_attributes": {
+          "name": "desnse_fog"
+        },
+        "_text": "浓雾"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_dontloginwhileplaying"
+        },
+        "_text": "如果你当前已登录到游戏并尝试登录移动设备的 App，游戏进度将不会被保存。\\n\\n（此警告每次都会出现）"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_incorrectcreds"
+        },
+        "_text": "请输入你的凭证。"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_incorrectdata"
+        },
+        "_text": "没有收到正确的数据"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_incorrectresponse"
+        },
+        "_text": "登录失败；从服务器收到错误的响应。请再试一次。"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_nintendologinfail1"
+        },
+        "_text": "Nintendo Switch 登录失败: 0"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_nintendologinfail2"
+        },
+        "_text": "Nintendo Switch 登录失败: 1"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_nointernet"
+        },
+        "_text": "无法连接到网络。"
+      },
+      {
+        "_attributes": {
+          "name": "dialog_pleaselogin"
+        },
+        "_text": "请登录你的 Warframe 账号。"
+      },
+      {
+        "_attributes": {
+          "name": "diciple"
+        },
+        "_text": "门徒"
+      },
+      {
+        "_attributes": {
+          "name": "did_not_reg_security_code"
+        },
+        "_text": "安全码无法识别。"
+      },
+      {
+        "_attributes": {
+          "name": "disable"
+        },
+        "_text": "禁用"
+      },
+      {
+        "_attributes": {
+          "name": "discordJoinText"
+        },
+        "_text": "加入 Warframe 官方 Discord 服务器"
+      },
+      {
+        "_attributes": {
+          "name": "disruption"
+        },
+        "_text": "中断"
+      },
+      {
+        "_attributes": {
+          "name": "dna_stbilizers"
+        },
+        "_text": "DNA 稳定剂组"
+      },
+      {
+        "_attributes": {
+          "name": "dnastabfail"
+        },
+        "_text": "无法使用 DNA 稳定剂。"
+      },
+      {
+        "_attributes": {
+          "name": "download_alert"
+        },
+        "_text": "下载警告"
+      },
+      {
+        "_attributes": {
+          "name": "download_iosgame"
+        },
+        "_text": "在 App Store 中查看《Warframe》"
+      },
+      {
+        "_attributes": {
+          "name": "download_retry_message"
+        },
+        "_text": "一些文件可能未被下载或缺失。是否重新下载？\\n\\n如果这个问题仍然存在，请尝试使用其他 wifi 网络或手机流量。"
+      },
+      {
+        "_attributes": {
+          "name": "dragon"
+        },
+        "_text": "天龙"
+      },
+      {
+        "_attributes": {
+          "name": "ducatOwnedLabel"
+        },
+        "_text": "你当前持有 |imagecount| 杜卡德金币。"
+      },
+      {
+        "_attributes": {
+          "name": "duviri"
+        },
+        "_text": "双衍王境"
+      },
+      {
+        "_attributes": {
+          "name": "eagle"
+        },
+        "_text": "苍鹰"
+      },
+      {
+        "_attributes": {
+          "name": "earth"
+        },
+        "_text": "地球"
+      },
+      {
+        "_attributes": {
+          "name": "earthClockText"
+        },
+        "_text": "地球 / 夜灵平野"
+      },
+      {
+        "_attributes": {
+          "name": "electromagnetic_anomalies"
+        },
+        "_text": "电磁异常"
+      },
+      {
+        "_attributes": {
+          "name": "email"
+        },
+        "_text": "电子邮箱"
+      },
+      {
+        "_attributes": {
+          "name": "email_sent"
+        },
+        "_text": "请先验证你的身份。 为了保障你的账号安全，我们已经发送了一封包含代码的电子邮件，请在下面输入此代码。此代码将于 30 分钟后失效。"
+      },
+      {
+        "_attributes": {
+          "name": "emptyslot"
+        },
+        "_text": "空闲槽位"
+      },
+      {
+        "_attributes": {
+          "name": "enable"
+        },
+        "_text": "启用"
+      },
+      {
+        "_attributes": {
+          "name": "enable_cell_data"
+        },
+        "_text": "启用手机流量"
+      },
+      {
+        "_attributes": {
+          "name": "enable_notifications"
+        },
+        "_text": "启用通知"
+      },
+      {
+        "_attributes": {
+          "name": "endo"
+        },
+        "_text": "内融核心"
+      },
+      {
+        "_attributes": {
+          "name": "enemy_elemental_enhancement"
+        },
+        "_text": "敌人元素强化"
+      },
+      {
+        "_attributes": {
+          "name": "enemy_physical_enhancement"
+        },
+        "_text": "敌人物理强化"
+      },
+      {
+        "_attributes": {
+          "name": "energy"
+        },
+        "_text": "能量"
+      },
+      {
+        "_attributes": {
+          "name": "energy_reduction"
+        },
+        "_text": "能量上限减少"
+      },
+      {
+        "_attributes": {
+          "name": "english"
+        },
+        "_text": "English"
+      },
+      {
+        "_attributes": {
+          "name": "ensure_email_correct"
+        },
+        "_text": "请确保电子邮箱输入正确。"
+      },
+      {
+        "_attributes": {
+          "name": "ensure_password_correct"
+        },
+        "_text": "请确保密码输入正确。"
+      },
+      {
+        "_attributes": {
+          "name": "enterValidCode"
+        },
+        "_text": "请输入一条有效代码。"
+      },
+      {
+        "_attributes": {
+          "name": "entrati"
+        },
+        "_text": "英择谛"
+      },
+      {
+        "_attributes": {
+          "name": "envy"
+        },
+        "_text": "嫉妒"
+      },
+      {
+        "_attributes": {
+          "name": "equinoxTheme"
+        },
+        "_text": "Equinox"
+      },
+      {
+        "_attributes": {
+          "name": "eris"
+        },
+        "_text": "阋神星"
+      },
+      {
+        "_attributes": {
+          "name": "error_icon_content_description"
+        },
+        "_text": "错误"
+      },
+      {
+        "_attributes": {
+          "name": "error_occurred"
+        },
+        "_text": "发生了一个错误。"
+      },
+      {
+        "_attributes": {
+          "name": "europa"
+        },
+        "_text": "欧罗巴"
+      },
+      {
+        "_attributes": {
+          "name": "excavation"
+        },
+        "_text": "挖掘"
+      },
+      {
+        "_attributes": {
+          "name": "exceptional"
+        },
+        "_text": "优良"
+      },
+      {
+        "_attributes": {
+          "name": "exchanged_for_ducats"
+        },
+        "_text": "可交换 |imagecount| 杜卡德金币。"
+      },
+      {
+        "_attributes": {
+          "name": "excludeItemsWarning"
+        },
+        "_text": "请在游戏内领取这件物品。"
+      },
+      {
+        "_attributes": {
+          "name": "exctactor_unablecollect"
+        },
+        "_text": "无法收回所有的采集机。"
+      },
+      {
+        "_attributes": {
+          "name": "exiums_stronghold"
+        },
+        "_text": "卓越者大本营"
+      },
+      {
+        "_attributes": {
+          "name": "expand_button_title"
+        },
+        "_text": "高级"
+      },
+      {
+        "_attributes": {
+          "name": "expired"
+        },
+        "_text": "已过期"
+      },
+      {
+        "_attributes": {
+          "name": "exposed_dropdown_menu_content_description"
+        },
+        "_text": "显示下拉菜单"
+      },
+      {
+        "_attributes": {
+          "name": "exterminate"
+        },
+        "_text": "歼灭"
+      },
+      {
+        "_attributes": {
+          "name": "extractor"
+        },
+        "_text": "采集机"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_claimall"
+        },
+        "_text": "全部领取"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_collect"
+        },
+        "_text": "领取"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_deploy"
+        },
+        "_text": "部署"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_dest"
+        },
+        "_text": "已损毁"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_destroyedState"
+        },
+        "_text": "|extractorName|（已损毁）"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_dronecollect"
+        },
+        "_text": "采集机已收集到 |numResource|x |resName|"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_dronecollected"
+        },
+        "_text": "采集机已收回！"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_dronescrapped"
+        },
+        "_text": "采集机已被报废！"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_dt"
+        },
+        "_text": "采集机已部署至|regionNames|。"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_failcollect"
+        },
+        "_text": "无法从|planetName|收回采集机。"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_failtodeploy"
+        },
+        "_text": "部署采集机失败。"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_hp"
+        },
+        "_text": "生命值"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_itemsGathered"
+        },
+        "_text": "|numResource|x |resName|"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_maxdrone"
+        },
+        "_text": "已达到最大采集机设置数量。"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_nolocation"
+        },
+        "_text": "完成任一星系上所有任务来部署资源采集机。"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_notdeployed"
+        },
+        "_text": "未部署"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_ready"
+        },
+        "_text": "采集机准备完成"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_redeployMessage"
+        },
+        "_text": "是否要将相同的采集机重新部署到相同的星球？"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_redeployTitle"
+        },
+        "_text": "快速重新部署"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_retrieve"
+        },
+        "_text": "收回"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_rfe"
+        },
+        "_text": "已准备好采集"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_scrap"
+        },
+        "_text": "报废"
+      },
+      {
+        "_attributes": {
+          "name": "extractor_sucesscollect"
+        },
+        "_text": "所有采集机收回成功！"
+      },
+      {
+        "_attributes": {
+          "name": "extractors_ready"
+        },
+        "_text": "|number| 台采集机就绪"
+      },
+      {
+        "_attributes": {
+          "name": "extreme_cold"
+        },
+        "_text": "极度寒冷"
+      },
+      {
+        "_attributes": {
+          "name": "failedtomove"
+        },
+        "_text": "无法将同伴放入冷冻舱。"
+      },
+      {
+        "_attributes": {
+          "name": "failedtoretrieve"
+        },
+        "_text": "无法从冷冻舱取回同伴。"
+      },
+      {
+        "_attributes": {
+          "name": "fallback_menu_item_copy_link"
+        },
+        "_text": "复制链接"
+      },
+      {
+        "_attributes": {
+          "name": "fallback_menu_item_open_in_browser"
+        },
+        "_text": "在浏览器中打开"
+      },
+      {
+        "_attributes": {
+          "name": "fallback_menu_item_share_link"
+        },
+        "_text": "分享链接"
+      },
+      {
+        "_attributes": {
+          "name": "fass"
+        },
+        "_text": "“混乱”"
+      },
+      {
+        "_attributes": {
+          "name": "fear"
+        },
+        "_text": "恐惧"
+      },
+      {
+        "_attributes": {
+          "name": "featuredGuilds"
+        },
+        "_text": "特色道场"
+      },
+      {
+        "_attributes": {
+          "name": "filter_options"
+        },
+        "_text": "选择筛选器"
+      },
+      {
+        "_attributes": {
+          "name": "fire"
+        },
+        "_text": "火灾"
+      },
+      {
+        "_attributes": {
+          "name": "firerate"
+        },
+        "_text": "射速"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_axi"
+        },
+        "_text": "后纪"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_fissure"
+        },
+        "_text": "|fissureEra|裂缝"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_level"
+        },
+        "_text": "等级 |minLvl| - |maxLvl|"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_lith"
+        },
+        "_text": "古纪"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_meso"
+        },
+        "_text": "前纪"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_neo"
+        },
+        "_text": "中纪"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_omnia"
+        },
+        "_text": "全能"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_requiem"
+        },
+        "_text": "安魂"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_t1"
+        },
+        "_text": "T1"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_t2"
+        },
+        "_text": "T2"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_t3"
+        },
+        "_text": "T3"
+      },
+      {
+        "_attributes": {
+          "name": "fissure_t4"
+        },
+        "_text": "T4"
+      },
+      {
+        "_attributes": {
+          "name": "flawless"
+        },
+        "_text": "无瑕"
+      },
+      {
+        "_attributes": {
+          "name": "focus_lens"
+        },
+        "_text": "专精晶体"
+      },
+      {
+        "_attributes": {
+          "name": "followThr"
+        },
+        "_text": "伤害穿透系数"
+      },
+      {
+        "_attributes": {
+          "name": "fortunaTheme"
+        },
+        "_text": "福尔图娜"
+      },
+      {
+        "_attributes": {
+          "name": "founderDisciple"
+        },
+        "_text": "创始人\\n门徒"
+      },
+      {
+        "_attributes": {
+          "name": "founderGrandMaster"
+        },
+        "_text": "创始人\\n大宗师"
+      },
+      {
+        "_attributes": {
+          "name": "founderHunter"
+        },
+        "_text": "创始人\\n巡猎者"
+      },
+      {
+        "_attributes": {
+          "name": "founderMaster"
+        },
+        "_text": "创始人\\n大师"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_archWeaponSlots"
+        },
+        "_text": "|number| 武器槽位"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_archWeapotSlot"
+        },
+        "_text": "|number| 武器槽位"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_archwingSlot"
+        },
+        "_text": "|number| 曲翼槽位"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_archwingSlots"
+        },
+        "_text": "|number| 曲翼槽位"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_blueprint"
+        },
+        "_text": "|itemCount| 张蓝图"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_blueprints"
+        },
+        "_text": "|itemCount| 张蓝图"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_build"
+        },
+        "_text": "制造"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_builditem"
+        },
+        "_text": "制造物品"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buildstart"
+        },
+        "_text": "制造开始！"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buyconfirm"
+        },
+        "_text": "购买槽位？"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buyslotdiag2"
+        },
+        "_text": "\\n你仍旧需要 |rushCost| 白金来进行加速或领取。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buyslotdiag3"
+        },
+        "_text": "\\n\\n你当前持有 |platInv| 白金。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buyslotdiagplural"
+        },
+        "_text": "无法领取；仓库内没有足够的空间。是否花费 |platCost| 白金来购买 |slotsQty| 个槽位？"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_buyslotdiagsingular"
+        },
+        "_text": "无法领取；仓库内没有足够的空间。是否花费 |platCost| 白金来购买 |slotsQty| 个槽位？"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_cancelBuild"
+        },
+        "_text": "取消制造"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_cancel_complete"
+        },
+        "_text": "物品已经完成。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_cancel_message"
+        },
+        "_text": "以下组件将会退还："
+      },
+      {
+        "_attributes": {
+          "name": "foundry_cannotclaim"
+        },
+        "_text": "获取失败；仓库空间不足"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_claim"
+        },
+        "_text": "领取"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_error"
+        },
+        "_text": "错误：|errorMessage|"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_failtobuild"
+        },
+        "_text": "无法制造物品。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_insufficient_ingredient"
+        },
+        "_text": "因为缺少材料而无法制造物品。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_insufficientfunds"
+        },
+        "_text": "金额不足！"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_insufficientslots"
+        },
+        "_text": "槽位不足！"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_insufresources"
+        },
+        "_text": "组件不足"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_item_complete"
+        },
+        "_text": "铸造厂物品完成"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemcanceled"
+        },
+        "_text": "物品已取消！"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemclaimed"
+        },
+        "_text": "物品已领取！"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemowned"
+        },
+        "_text": "已拥有这件物品"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemrushdialog"
+        },
+        "_text": "是否花费 |platCost| 白金来加速制造 |itemName| ？你目前拥有 |platInv| 白金。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemrushdialogtitle"
+        },
+        "_text": "加速物品"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_itemselectiondialog"
+        },
+        "_text": "对不起，指挥官！这个移动铸造厂无法制造需要选择物品的蓝图。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_masteryranklow"
+        },
+        "_text": "段位不足以制造该物品"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_missingIngredient"
+        },
+        "_text": "资源\\n未找到"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_none"
+        },
+        "_text": "无"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_notenoughplat"
+        },
+        "_text": "没有足够的白金。你目前有 |currentPlat| 白金，不足以支付所需的 |rushCost| 白金。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_opInProgress"
+        },
+        "_text": "操作进行中"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_owned"
+        },
+        "_text": "已拥有 |numOwned|"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_ready"
+        },
+        "_text": "就绪"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_refund_argon"
+        },
+        "_text": "注意：氩结晶将无法被返还。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_reusable"
+        },
+        "_text": "可重复使用"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_rush"
+        },
+        "_text": "加速"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_rushbuild"
+        },
+        "_text": "加速制造"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_rushcost"
+        },
+        "_text": "无效的加速消耗。"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_selectweapon"
+        },
+        "_text": "选择武器 |index|"
+      },
+      {
+        "_attributes": {
+          "name": "foundry_startbuild"
+        },
+        "_text": "确定要制造“|itemName|”吗？"
+      },
+      {
+        "_attributes": {
+          "name": "free_roam"
+        },
+        "_text": "自由漫游"
+      },
+      {
+        "_attributes": {
+          "name": "french"
+        },
+        "_text": "Français"
+      },
+      {
+        "_attributes": {
+          "name": "friend_beingignored"
+        },
+        "_text": "无法添加好友；该用户正在屏蔽你。"
+      },
+      {
+        "_attributes": {
+          "name": "friend_doesntexist"
+        },
+        "_text": "用户不存在；请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "friend_tryagain"
+        },
+        "_text": "发生了一个错误，请再试一次。"
+      },
+      {
+        "_attributes": {
+          "name": "friend_wfAlias"
+        },
+        "_text": "Warframe 游戏昵称"
+      },
+      {
+        "_attributes": {
+          "name": "frienddialog1"
+        },
+        "_text": "请等一下……你不是已经成为这位 Tenno 的好友了吗？"
+      },
+      {
+        "_attributes": {
+          "name": "frienddialog2"
+        },
+        "_text": "已发送请求给该用户。"
+      },
+      {
+        "_attributes": {
+          "name": "frienddialog3"
+        },
+        "_text": "已收到该用户发送的请求。"
+      },
+      {
+        "_attributes": {
+          "name": "frienddialog4"
+        },
+        "_text": "给 |friendName| 发送好友添加请求？"
+      },
+      {
+        "_attributes": {
+          "name": "friends"
+        },
+        "_text": "好友"
+      },
+      {
+        "_attributes": {
+          "name": "fusionCore"
+        },
+        "_text": "|rarity| 核心"
+      },
+      {
+        "_attributes": {
+          "name": "generic"
+        },
+        "_text": "系列任务"
+      },
+      {
+        "_attributes": {
+          "name": "german"
+        },
+        "_text": "Deutsch"
+      },
+      {
+        "_attributes": {
+          "name": "ghostGuild"
+        },
+        "_text": "幽灵"
+      },
+      {
+        "_attributes": {
+          "name": "glyph"
+        },
+        "_text": "浮印"
+      },
+      {
+        "_attributes": {
+          "name": "gold_disciple"
+        },
+        "_text": "黄金门徒"
+      },
+      {
+        "_attributes": {
+          "name": "gold_dragon"
+        },
+        "_text": "黄金天龙"
+      },
+      {
+        "_attributes": {
+          "name": "gold_eagle"
+        },
+        "_text": "黄金苍鹰"
+      },
+      {
+        "_attributes": {
+          "name": "gold_hunter"
+        },
+        "_text": "黄金巡猎者"
+      },
+      {
+        "_attributes": {
+          "name": "gold_inititate"
+        },
+        "_text": "黄金启蒙者"
+      },
+      {
+        "_attributes": {
+          "name": "gold_novice"
+        },
+        "_text": "黄金信徒"
+      },
+      {
+        "_attributes": {
+          "name": "gold_sage"
+        },
+        "_text": "黄金圣者"
+      },
+      {
+        "_attributes": {
+          "name": "gold_seeker"
+        },
+        "_text": "黄金探求者"
+      },
+      {
+        "_attributes": {
+          "name": "gold_tiger"
+        },
+        "_text": "黄金猎虎"
+      },
+      {
+        "_attributes": {
+          "name": "grand_master"
+        },
+        "_text": "大宗师"
+      },
+      {
+        "_attributes": {
+          "name": "greater_focus_lens"
+        },
+        "_text": "高级专精晶体"
+      },
+      {
+        "_attributes": {
+          "name": "grineerTheme"
+        },
+        "_text": "Grineer"
+      },
+      {
+        "_attributes": {
+          "name": "grustrag"
+        },
+        "_text": "Grustrag"
+      },
+      {
+        "_attributes": {
+          "name": "guildTitle"
+        },
+        "_text": "氏族：|guildName|"
+      },
+      {
+        "_attributes": {
+          "name": "health"
+        },
+        "_text": "生命值"
+      },
+      {
+        "_attributes": {
+          "name": "healthlc"
+        },
+        "_text": "生命值"
+      },
+      {
+        "_attributes": {
+          "name": "heavyAttack"
+        },
+        "_text": "重击"
+      },
+      {
+        "_attributes": {
+          "name": "heirloomAccolade"
+        },
+        "_text": "传家宝\\n十年支持者"
+      },
+      {
+        "_attributes": {
+          "name": "hek"
+        },
+        "_text": "Vay Hek"
+      },
+      {
+        "_attributes": {
+          "name": "helmcharger"
+        },
+        "_text": "Helminth 疾冲者"
+      },
+      {
+        "_attributes": {
+          "name": "hex"
+        },
+        "_text": "六人组"
+      },
+      {
+        "_attributes": {
+          "name": "hijack"
+        },
+        "_text": "劫持"
+      },
+      {
+        "_attributes": {
+          "name": "hive"
+        },
+        "_text": "清巢"
+      },
+      {
+        "_attributes": {
+          "name": "holdfasts"
+        },
+        "_text": "坚守者"
+      },
+      {
+        "_attributes": {
+          "name": "horribly_wrong_error"
+        },
+        "_text": "无法领取物品。请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "hotfix"
+        },
+        "_text": "热修"
+      },
+      {
+        "_attributes": {
+          "name": "hunter"
+        },
+        "_text": "巡猎者"
+      },
+      {
+        "_attributes": {
+          "name": "hyena"
+        },
+        "_text": "鬣狗"
+      },
+      {
+        "_attributes": {
+          "name": "icon_content_description"
+        },
+        "_text": "对话框图标"
+      },
+      {
+        "_attributes": {
+          "name": "includes"
+        },
+        "_text": "包括："
+      },
+      {
+        "_attributes": {
+          "name": "incorrect_response"
+        },
+        "_text": "从服务器收到错误的响应。"
+      },
+      {
+        "_attributes": {
+          "name": "incubation_alert"
+        },
+        "_text": "孵化警报"
+      },
+      {
+        "_attributes": {
+          "name": "inflad"
+        },
+        "_text": "异融 ALAD V"
+      },
+      {
+        "_attributes": {
+          "name": "initiate"
+        },
+        "_text": "启蒙者"
+      },
+      {
+        "_attributes": {
+          "name": "instructions_pull_in"
+        },
+        "_text": "从左拉入来打开菜单。"
+      },
+      {
+        "_attributes": {
+          "name": "instructions_swipe_right"
+        },
+        "_text": "向右滑动来打开菜单"
+      },
+      {
+        "_attributes": {
+          "name": "insufficent_traces"
+        },
+        "_text": "虚空光体不足！还需要 |remainingTraces| 个来升级。"
+      },
+      {
+        "_attributes": {
+          "name": "insufficient_credits"
+        },
+        "_text": "现金不足！"
+      },
+      {
+        "_attributes": {
+          "name": "intact"
+        },
+        "_text": "完整"
+      },
+      {
+        "_attributes": {
+          "name": "interact"
+        },
+        "_text": "互动"
+      },
+      {
+        "_attributes": {
+          "name": "interactionfail"
+        },
+        "_text": "无法与同伴互动。"
+      },
+      {
+        "_attributes": {
+          "name": "interception"
+        },
+        "_text": "拦截"
+      },
+      {
+        "_attributes": {
+          "name": "internet_required"
+        },
+        "_text": "需要网络"
+      },
+      {
+        "_attributes": {
+          "name": "internet_unavailable"
+        },
+        "_text": "无法连接到网络。"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_character"
+        },
+        "_text": "无效字符：|char|"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_code"
+        },
+        "_text": "无效代码。"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_data"
+        },
+        "_text": "无效数据。"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_email"
+        },
+        "_text": "无效邮箱。"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_login_request"
+        },
+        "_text": "无效登录请求。"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_password"
+        },
+        "_text": "无效密码"
+      },
+      {
+        "_attributes": {
+          "name": "invalid_response"
+        },
+        "_text": "登录失败；无效响应。"
+      },
+      {
+        "_attributes": {
+          "name": "invasion_title"
+        },
+        "_text": "|regionName|：|factionName| |attackType|"
+      },
+      {
+        "_attributes": {
+          "name": "ip_banned"
+        },
+        "_text": "登录失败。请联系 Warframe 客服以寻求帮助。"
+      },
+      {
+        "_attributes": {
+          "name": "ircerror"
+        },
+        "_text": "IRC 连接错误：|errorCode|"
+      },
+      {
+        "_attributes": {
+          "name": "ircerror2"
+        },
+        "_text": "\\n\\n请尝试在设置菜单中关闭“IPv6 聊天”选项。"
+      },
+      {
+        "_attributes": {
+          "name": "italian"
+        },
+        "_text": "Italiano"
+      },
+      {
+        "_attributes": {
+          "name": "itemBlueprint"
+        },
+        "_text": "|itemName| 蓝图"
+      },
+      {
+        "_attributes": {
+          "name": "item_not_found"
+        },
+        "_text": "找不到物品"
+      },
+      {
+        "_attributes": {
+          "name": "item_view_role_description"
+        },
+        "_text": "标签页"
+      },
+      {
+        "_attributes": {
+          "name": "itemcount"
+        },
+        "_text": "x|count|"
+      },
+      {
+        "_attributes": {
+          "name": "jackal"
+        },
+        "_text": "豺狼"
+      },
+      {
+        "_attributes": {
+          "name": "japanese"
+        },
+        "_text": "日本語"
+      },
+      {
+        "_attributes": {
+          "name": "joy"
+        },
+        "_text": "喜悦"
+      },
+      {
+        "_attributes": {
+          "name": "junction"
+        },
+        "_text": "接合点"
+      },
+      {
+        "_attributes": {
+          "name": "jupiter"
+        },
+        "_text": "木星"
+      },
+      {
+        "_attributes": {
+          "name": "kavat"
+        },
+        "_text": "库娃"
+      },
+      {
+        "_attributes": {
+          "name": "kavategg"
+        },
+        "_text": "孵化中……"
+      },
+      {
+        "_attributes": {
+          "name": "kela"
+        },
+        "_text": "Kela De Thaym"
+      },
+      {
+        "_attributes": {
+          "name": "keyword1"
+        },
+        "_text": "更新"
+      },
+      {
+        "_attributes": {
+          "name": "kick"
+        },
+        "_text": "踢出"
+      },
+      {
+        "_attributes": {
+          "name": "kick_active_session"
+        },
+        "_text": "踢出当前会话"
+      },
+      {
+        "_attributes": {
+          "name": "kitgun_description"
+        },
+        "_text": "一把从许多种可选部件中挑选组合而成的自定义武器。只有福尔图娜的粗鲁的 Zuud 可以组装。"
+      },
+      {
+        "_attributes": {
+          "name": "korean"
+        },
+        "_text": "한국어"
+      },
+      {
+        "_attributes": {
+          "name": "kril"
+        },
+        "_text": "Lech Kril"
+      },
+      {
+        "_attributes": {
+          "name": "kroniaRelay"
+        },
+        "_text": "Kronia 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "kubrow"
+        },
+        "_text": "库狛"
+      },
+      {
+        "_attributes": {
+          "name": "kubrowegg"
+        },
+        "_text": "孵化中……"
+      },
+      {
+        "_attributes": {
+          "name": "kuiperRelay"
+        },
+        "_text": "Kuiper 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "kuva_fortress"
+        },
+        "_text": "赤毒要塞"
+      },
+      {
+        "_attributes": {
+          "name": "kuva_survival"
+        },
+        "_text": "赤毒生存"
+      },
+      {
+        "_attributes": {
+          "name": "language"
+        },
+        "_text": "语言"
+      },
+      {
+        "_attributes": {
+          "name": "larundaRelay"
+        },
+        "_text": "Larunda 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "left"
+        },
+        "_text": "左"
+      },
+      {
+        "_attributes": {
+          "name": "legacyTheme"
+        },
+        "_text": "传统"
+      },
+      {
+        "_attributes": {
+          "name": "legendary"
+        },
+        "_text": "传奇 |MR|"
+      },
+      {
+        "_attributes": {
+          "name": "leonovRelay"
+        },
+        "_text": "Leonov 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "lephantis"
+        },
+        "_text": "Lephantis"
+      },
+      {
+        "_attributes": {
+          "name": "linkunavailable2"
+        },
+        "_text": "{链接不可用}"
+      },
+      {
+        "_attributes": {
+          "name": "linkunavailalbe1"
+        },
+        "_text": "[链接不可用]"
+      },
+      {
+        "_attributes": {
+          "name": "lith"
+        },
+        "_text": "古纪"
+      },
+      {
+        "_attributes": {
+          "name": "lith_era"
+        },
+        "_text": "古世纪"
+      },
+      {
+        "_attributes": {
+          "name": "loading"
+        },
+        "_text": "加载中……"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_1"
+        },
+        "_text": "正在分析资料库"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_10"
+        },
+        "_text": "正在削土豆"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_11"
+        },
+        "_text": "正在增强 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_12"
+        },
+        "_text": "正在乱放大招"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_13"
+        },
+        "_text": "正在擦亮 Prime 物件"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_14"
+        },
+        "_text": "正在随机选取颜色"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_15"
+        },
+        "_text": "正在拆下格栅"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_16"
+        },
+        "_text": "Clem Clem 葛拉卡达"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_17"
+        },
+        "_text": "正在对 Ordis 进行碎片整理"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_18"
+        },
+        "_text": "正在埋伏 Baro Ki’Teer"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_19"
+        },
+        "_text": "正在喂食库狛"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_2"
+        },
+        "_text": "正在进入虚空"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_20"
+        },
+        "_text": "正在敲诈 Darvo"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_21"
+        },
+        "_text": "正在除去摇头娃娃上的灰尘"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_22"
+        },
+        "_text": "正在扫描去壳毬果"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_23"
+        },
+        "_text": "正在配虚空钥匙"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_24"
+        },
+        "_text": "正在追踪 Stalker"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_25"
+        },
+        "_text": "正在取回战刃"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_26"
+        },
+        "_text": "正在对空刃进行消毒"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_27"
+        },
+        "_text": "醒醒，Tenno "
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_28"
+        },
+        "_text": "正在打电话给莲妈"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_29"
+        },
+        "_text": "正在拆卸恐鸟"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_3"
+        },
+        "_text": "正在初始化 Warframe 战甲"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_30"
+        },
+        "_text": "正在骑乘恐鸟"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_31"
+        },
+        "_text": "正在智商碾压 Grineer"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_32"
+        },
+        "_text": "正在为库狛铲屎"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_33"
+        },
+        "_text": "正在破解锁定"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_34"
+        },
+        "_text": "正在搭电梯"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_35"
+        },
+        "_text": "正在囤积合金板"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_36"
+        },
+        "_text": "正在收集资源"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_37"
+        },
+        "_text": "正在消耗氩结晶"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_38"
+        },
+        "_text": "正在试穿保温服"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_39"
+        },
+        "_text": "正在设定奖章路径点"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_4"
+        },
+        "_text": "正在清点 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_40"
+        },
+        "_text": "正在蒸馏贪婪牛奶"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_41"
+        },
+        "_text": "正在检修 Archwing"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_42"
+        },
+        "_text": "正在欢迎指挥官"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_43"
+        },
+        "_text": "正在赞美 Booben"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_44"
+        },
+        "_text": "正在对曼达和弦琴调音"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_45"
+        },
+        "_text": "正在和 Konzu 共进午餐"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_46"
+        },
+        "_text": "正在预见一场腥风血雨"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_47"
+        },
+        "_text": "正在饲喂 Lephantis"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_48"
+        },
+        "_text": "正在分类摇头娃娃"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_49"
+        },
+        "_text": "喂，小鬼"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_5"
+        },
+        "_text": "正在加载武器"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_50"
+        },
+        "_text": "正在呼吸 Vay Hek 的空气"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_51"
+        },
+        "_text": "正在擦亮阿耶檀识"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_52"
+        },
+        "_text": "正在呼吸 Vay Hek 的空气"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_53"
+        },
+        "_text": "正在等待 Baro"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_54"
+        },
+        "_text": "正在等待赤毒洪潮"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_6"
+        },
+        "_text": "正在磨砺刀刃"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_7"
+        },
+        "_text": "正在解除轨道飞行器伪装"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_8"
+        },
+        "_text": "正在停靠登陆艇"
+      },
+      {
+        "_attributes": {
+          "name": "loading_message_9"
+        },
+        "_text": "静音 Ordis"
+      },
+      {
+        "_attributes": {
+          "name": "locationText"
+        },
+        "_text": "|nodeName| (|planetName|)"
+      },
+      {
+        "_attributes": {
+          "name": "login_failed"
+        },
+        "_text": "登录失败"
+      },
+      {
+        "_attributes": {
+          "name": "login_failed_try_again"
+        },
+        "_text": "登录失败。请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "lotusTheme"
+        },
+        "_text": "Lotus"
+      },
+      {
+        "_attributes": {
+          "name": "low_kubrow_health"
+        },
+        "_text": "库狛生命值降低"
+      },
+      {
+        "_attributes": {
+          "name": "lua"
+        },
+        "_text": "月球"
+      },
+      {
+        "_attributes": {
+          "name": "lunarRenewalTheme"
+        },
+        "_text": "新春"
+      },
+      {
+        "_attributes": {
+          "name": "magazine"
+        },
+        "_text": "弹匣"
+      },
+      {
+        "_attributes": {
+          "name": "markedForDeathBy"
+        },
+        "_text": "死亡标记"
+      },
+      {
+        "_attributes": {
+          "name": "mars"
+        },
+        "_text": "火星"
+      },
+      {
+        "_attributes": {
+          "name": "master"
+        },
+        "_text": "大师"
+      },
+      {
+        "_attributes": {
+          "name": "mastery"
+        },
+        "_text": "精通段位升段测验"
+      },
+      {
+        "_attributes": {
+          "name": "mastery_unranked"
+        },
+        "_text": "无等级"
+      },
+      {
+        "_attributes": {
+          "name": "mastreq"
+        },
+        "_text": "段位限制"
+      },
+      {
+        "_attributes": {
+          "name": "material_clock_toggle_content_description"
+        },
+        "_text": "选择上午或下午"
+      },
+      {
+        "_attributes": {
+          "name": "material_hour_selection"
+        },
+        "_text": "选择小时"
+      },
+      {
+        "_attributes": {
+          "name": "material_hour_suffix"
+        },
+        "_text": "%1$s 点"
+      },
+      {
+        "_attributes": {
+          "name": "material_minute_selection"
+        },
+        "_text": "选择分钟"
+      },
+      {
+        "_attributes": {
+          "name": "material_minute_suffix"
+        },
+        "_text": "%1$s 分"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_am"
+        },
+        "_text": "上午"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_clock_mode_description"
+        },
+        "_text": "切换到时钟模式来输入时间。"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_hour"
+        },
+        "_text": "小时"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_minute"
+        },
+        "_text": "分钟"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_pm"
+        },
+        "_text": "下午"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_select_time"
+        },
+        "_text": "选择时间"
+      },
+      {
+        "_attributes": {
+          "name": "material_timepicker_text_input_mode_description"
+        },
+        "_text": "切换到文字输入模式来输入时间。"
+      },
+      {
+        "_attributes": {
+          "name": "melee_only"
+        },
+        "_text": "仅限近战"
+      },
+      {
+        "_attributes": {
+          "name": "mercury"
+        },
+        "_text": "水星"
+      },
+      {
+        "_attributes": {
+          "name": "meso"
+        },
+        "_text": "前纪"
+      },
+      {
+        "_attributes": {
+          "name": "meso_era"
+        },
+        "_text": "前世纪"
+      },
+      {
+        "_attributes": {
+          "name": "middle_master"
+        },
+        "_text": "宗师"
+      },
+      {
+        "_attributes": {
+          "name": "migratedAccolade"
+        },
+        "_text": "玩家\\n已迁移"
+      },
+      {
+        "_attributes": {
+          "name": "miscString1"
+        },
+        "_text": "已将杜卡德金币新增至个人档案页面"
+      },
+      {
+        "_attributes": {
+          "name": "miscString2"
+        },
+        "_text": "当使用采集机界面顶部的领取按钮时，采集机现在将提示是否要将相同的采集机重新部署到相同的星球"
+      },
+      {
+        "_attributes": {
+          "name": "moa_description"
+        },
+        "_text": "通过选取四个部分进行配置"
+      },
+      {
+        "_attributes": {
+          "name": "mobile_defense"
+        },
+        "_text": "移动防御"
+      },
+      {
+        "_attributes": {
+          "name": "moderatorAccolade"
+        },
+        "_text": "玩家社区\\n聊天管理员"
+      },
+      {
+        "_attributes": {
+          "name": "mods"
+        },
+        "_text": "Mod"
+      },
+      {
+        "_attributes": {
+          "name": "moonGuild"
+        },
+        "_text": "月亮"
+      },
+      {
+        "_attributes": {
+          "name": "more_arcanes_required"
+        },
+        "_text": "需要更多赋能"
+      },
+      {
+        "_attributes": {
+          "name": "mountainGuild"
+        },
+        "_text": "山脉"
+      },
+      {
+        "_attributes": {
+          "name": "movedtostasis"
+        },
+        "_text": "|petName| 已被放入冷冻舱。"
+      },
+      {
+        "_attributes": {
+          "name": "movestasis"
+        },
+        "_text": "将同伴放入冷冻舱？"
+      },
+      {
+        "_attributes": {
+          "name": "mr"
+        },
+        "_text": "精通段位"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_badge_numberless_content_description"
+        },
+        "_text": "新通知"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_chip_close_icon_content_description"
+        },
+        "_text": "移除%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_exceed_max_badge_number_content_description"
+        },
+        "_text": "有 %1$d 条以上的新通知"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_a11y_next_month"
+        },
+        "_text": "转到下个月"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_a11y_prev_month"
+        },
+        "_text": "转到上个月"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_announce_current_selection"
+        },
+        "_text": "当前的选择是：%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_confirm"
+        },
+        "_text": "@android:string/ok"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_date_header_selected"
+        },
+        "_text": "%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_date_header_title"
+        },
+        "_text": "请选择日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_date_header_unselected"
+        },
+        "_text": "选定的日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_day_of_week_column_header"
+        },
+        "_text": "表示周几的列：%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_invalid_format"
+        },
+        "_text": "格式无效。"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_invalid_format_example"
+        },
+        "_text": "示例：%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_invalid_format_use"
+        },
+        "_text": "使用：%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_invalid_range"
+        },
+        "_text": "范围无效。"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_navigate_to_year_description"
+        },
+        "_text": "转到 %1$s 年"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_out_of_range"
+        },
+        "_text": "不在允许的范围内：%1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_range_header_only_end_selected"
+        },
+        "_text": "开始日期 – %1$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_range_header_only_start_selected"
+        },
+        "_text": "%1$s – 结束日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_range_header_selected"
+        },
+        "_text": "%1$s - %2$s"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_range_header_title"
+        },
+        "_text": "请选择范围"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_range_header_unselected"
+        },
+        "_text": "开始日期 - 结束日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_save"
+        },
+        "_text": "保存"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_date_hint"
+        },
+        "_text": "日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_date_range_end_hint"
+        },
+        "_text": "结束日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_date_range_start_hint"
+        },
+        "_text": "开始日期"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_day_abbr"
+        },
+        "_text": "d"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_month_abbr"
+        },
+        "_text": "m"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_text_input_year_abbr"
+        },
+        "_text": "y"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_toggle_to_calendar_input_mode"
+        },
+        "_text": "切换到日历输入模式"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_toggle_to_day_selection"
+        },
+        "_text": "点按即可切换到选择某天"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_toggle_to_text_input_mode"
+        },
+        "_text": "切换到文本字段输入模式"
+      },
+      {
+        "_attributes": {
+          "name": "mtrl_picker_toggle_to_year_selection"
+        },
+        "_text": "点按即可切换到选择某年"
+      },
+      {
+        "_attributes": {
+          "name": "multishot"
+        },
+        "_text": "多重射击"
+      },
+      {
+        "_attributes": {
+          "name": "murmur"
+        },
+        "_text": "低语者"
+      },
+      {
+        "_attributes": {
+          "name": "name_companion_message"
+        },
+        "_text": "想给你的同伴起什么名字？"
+      },
+      {
+        "_attributes": {
+          "name": "name_companion_title_female"
+        },
+        "_text": "给她命名"
+      },
+      {
+        "_attributes": {
+          "name": "name_companion_title_male"
+        },
+        "_text": "给他命名"
+      },
+      {
+        "_attributes": {
+          "name": "namepet"
+        },
+        "_text": "对不起，指挥官！在将你的宠物无限期冷冻前，你必须先对其命名。"
+      },
+      {
+        "_attributes": {
+          "name": "narmer"
+        },
+        "_text": "合一众"
+      },
+      {
+        "_attributes": {
+          "name": "necraloid"
+        },
+        "_text": "殁世械灵"
+      },
+      {
+        "_attributes": {
+          "name": "nef"
+        },
+        "_text": "Nef Anyo"
+      },
+      {
+        "_attributes": {
+          "name": "neo"
+        },
+        "_text": "中纪"
+      },
+      {
+        "_attributes": {
+          "name": "neo_era"
+        },
+        "_text": "中世纪"
+      },
+      {
+        "_attributes": {
+          "name": "neptune"
+        },
+        "_text": "海王星"
+      },
+      {
+        "_attributes": {
+          "name": "netracell"
+        },
+        "_text": "衰退室"
+      },
+      {
+        "_attributes": {
+          "name": "never"
+        },
+        "_text": "从不"
+      },
+      {
+        "_attributes": {
+          "name": "newLoka"
+        },
+        "_text": "新世间"
+      },
+      {
+        "_attributes": {
+          "name": "new_refinement_cost"
+        },
+        "_text": "将|relicName|精炼至|newRefinement|？这将会消耗 |voidTraceCost| 虚空光体。"
+      },
+      {
+        "_attributes": {
+          "name": "new_version_available"
+        },
+        "_text": "|versionNumber| 现已可用！如需使用全部功能，请从 |store| 下载此更新。"
+      },
+      {
+        "_attributes": {
+          "name": "news"
+        },
+        "_text": "新闻"
+      },
+      {
+        "_attributes": {
+          "name": "nidusTheme"
+        },
+        "_text": "Nidus"
+      },
+      {
+        "_attributes": {
+          "name": "night"
+        },
+        "_text": "黑夜"
+      },
+      {
+        "_attributes": {
+          "name": "nintendoSignIn"
+        },
+        "_text": "使用 Nintendo 登录"
+      },
+      {
+        "_attributes": {
+          "name": "no"
+        },
+        "_text": "否"
+      },
+      {
+        "_attributes": {
+          "name": "no_Alerts"
+        },
+        "_text": "没有活跃的警报"
+      },
+      {
+        "_attributes": {
+          "name": "no_changes_detected"
+        },
+        "_text": "未检测到改动。"
+      },
+      {
+        "_attributes": {
+          "name": "no_response_server"
+        },
+        "_text": "服务器无响应。"
+      },
+      {
+        "_attributes": {
+          "name": "noactivecompanion"
+        },
+        "_text": "没有激活的同伴"
+      },
+      {
+        "_attributes": {
+          "name": "noise"
+        },
+        "_text": "噪音"
+      },
+      {
+        "_attributes": {
+          "name": "normal"
+        },
+        "_text": "普通"
+      },
+      {
+        "_attributes": {
+          "name": "not_set"
+        },
+        "_text": "未设置"
+      },
+      {
+        "_attributes": {
+          "name": "notif_settings_failed"
+        },
+        "_text": "更新通知设定失败。请再试一次。"
+      },
+      {
+        "_attributes": {
+          "name": "notif_settings_updated"
+        },
+        "_text": "通知设置已更新！"
+      },
+      {
+        "_attributes": {
+          "name": "notification"
+        },
+        "_text": "通知"
+      },
+      {
+        "_attributes": {
+          "name": "notificationSettings"
+        },
+        "_text": "通知"
+      },
+      {
+        "_attributes": {
+          "name": "novice"
+        },
+        "_text": "信徒"
+      },
+      {
+        "_attributes": {
+          "name": "offensive"
+        },
+        "_text": "进攻"
+      },
+      {
+        "_attributes": {
+          "name": "offline"
+        },
+        "_text": "离线"
+      },
+      {
+        "_attributes": {
+          "name": "ok"
+        },
+        "_text": "确定"
+      },
+      {
+        "_attributes": {
+          "name": "one_extractor_ready"
+        },
+        "_text": "1 台采集机就绪"
+      },
+      {
+        "_attributes": {
+          "name": "openslot"
+        },
+        "_text": "|number| 空闲槽位"
+      },
+      {
+        "_attributes": {
+          "name": "openslots"
+        },
+        "_text": "|number| 空闲槽位"
+      },
+      {
+        "_attributes": {
+          "name": "orb_vallis"
+        },
+        "_text": "奥布山谷"
+      },
+      {
+        "_attributes": {
+          "name": "orcusRelay"
+        },
+        "_text": "Orcus 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "orokinTheme"
+        },
+        "_text": "Orokin"
+      },
+      {
+        "_attributes": {
+          "name": "ostron"
+        },
+        "_text": "Ostron"
+      },
+      {
+        "_attributes": {
+          "name": "otherLogin"
+        },
+        "_text": "或使用以下方式登录"
+      },
+      {
+        "_attributes": {
+          "name": "outbreak"
+        },
+        "_text": "爆发"
+      },
+      {
+        "_attributes": {
+          "name": "owned"
+        },
+        "_text": "（已拥有）"
+      },
+      {
+        "_attributes": {
+          "name": "page_activities"
+        },
+        "_text": "活动"
+      },
+      {
+        "_attributes": {
+          "name": "page_arsenal"
+        },
+        "_text": "军械库"
+      },
+      {
+        "_attributes": {
+          "name": "page_chat"
+        },
+        "_text": "聊天"
+      },
+      {
+        "_attributes": {
+          "name": "page_codex"
+        },
+        "_text": "资料库"
+      },
+      {
+        "_attributes": {
+          "name": "page_companions"
+        },
+        "_text": "同伴"
+      },
+      {
+        "_attributes": {
+          "name": "page_equipment"
+        },
+        "_text": "装备"
+      },
+      {
+        "_attributes": {
+          "name": "page_foundry"
+        },
+        "_text": "铸造厂"
+      },
+      {
+        "_attributes": {
+          "name": "page_inventory"
+        },
+        "_text": "仓库"
+      },
+      {
+        "_attributes": {
+          "name": "page_login"
+        },
+        "_text": "登录"
+      },
+      {
+        "_attributes": {
+          "name": "page_logout"
+        },
+        "_text": "登出"
+      },
+      {
+        "_attributes": {
+          "name": "page_news"
+        },
+        "_text": "新闻"
+      },
+      {
+        "_attributes": {
+          "name": "page_profile"
+        },
+        "_text": "个人档案"
+      },
+      {
+        "_attributes": {
+          "name": "page_settings"
+        },
+        "_text": "设置"
+      },
+      {
+        "_attributes": {
+          "name": "page_social"
+        },
+        "_text": "社交"
+      },
+      {
+        "_attributes": {
+          "name": "page_voidrelics"
+        },
+        "_text": "虚空遗物"
+      },
+      {
+        "_attributes": {
+          "name": "passive"
+        },
+        "_text": "被动"
+      },
+      {
+        "_attributes": {
+          "name": "password"
+        },
+        "_text": "密码"
+      },
+      {
+        "_attributes": {
+          "name": "password_toggle_content_description"
+        },
+        "_text": "显示密码"
+      },
+      {
+        "_attributes": {
+          "name": "pending"
+        },
+        "_text": "待处理"
+      },
+      {
+        "_attributes": {
+          "name": "perrinSequence"
+        },
+        "_text": "佩兰数列"
+      },
+      {
+        "_attributes": {
+          "name": "pet_cant_rush"
+        },
+        "_text": "没有足够的白金。你目前有 |currentPlat| 白金，不足以支付所需的 |rushCost| 白金。"
+      },
+      {
+        "_attributes": {
+          "name": "pet_empty_name"
+        },
+        "_text": "请为你的宠物取一个名字。"
+      },
+      {
+        "_attributes": {
+          "name": "pet_full_integrity"
+        },
+        "_text": "|petName| 的完整性已处于最高状态。你把你的宠物照顾得很好！"
+      },
+      {
+        "_attributes": {
+          "name": "pet_integrity"
+        },
+        "_text": "|petName| 增加 |healthPct|% 生命值"
+      },
+      {
+        "_attributes": {
+          "name": "pet_interact_daily_limit"
+        },
+        "_text": "你今天不能再和 |petName| 互动了。已经够次数了！"
+      },
+      {
+        "_attributes": {
+          "name": "pet_interact_maxed"
+        },
+        "_text": "|petName| 已达到最大忠诚度！"
+      },
+      {
+        "_attributes": {
+          "name": "pet_loyalty"
+        },
+        "_text": "|petName| 增加 |loyaltyPct|% 伤害"
+      },
+      {
+        "_attributes": {
+          "name": "pet_profane_name"
+        },
+        "_text": "名称不能含有亵渎或不当言语。"
+      },
+      {
+        "_attributes": {
+          "name": "pet_rush"
+        },
+        "_text": "是否使用 |rushCost| 白金来进行加速孵育？你目前拥有 |currentPlat| 白金。"
+      },
+      {
+        "_attributes": {
+          "name": "petdistilling"
+        },
+        "_text": "对不起，指挥官！这个同伴正在提取基因印记，请稍后再试！"
+      },
+      {
+        "_attributes": {
+          "name": "petincubating"
+        },
+        "_text": "对不起，指挥官！这个蛋目前正在孵化中！"
+      },
+      {
+        "_attributes": {
+          "name": "phobos"
+        },
+        "_text": "火卫一"
+      },
+      {
+        "_attributes": {
+          "name": "phorid"
+        },
+        "_text": "Phorid"
+      },
+      {
+        "_attributes": {
+          "name": "phorid_infestation"
+        },
+        "_text": "|planetName|：PHORID 现形"
+      },
+      {
+        "_attributes": {
+          "name": "plains_of_eidolon"
+        },
+        "_text": "夜灵平野"
+      },
+      {
+        "_attributes": {
+          "name": "platform"
+        },
+        "_text": "平台"
+      },
+      {
+        "_attributes": {
+          "name": "platform_change_failure"
+        },
+        "_text": "更改平台时出现错误。请再试一次"
+      },
+      {
+        "_attributes": {
+          "name": "platform_changed"
+        },
+        "_text": "平台已更改！"
+      },
+      {
+        "_attributes": {
+          "name": "playstationSignIn"
+        },
+        "_text": "使用 PlayStation 登录"
+      },
+      {
+        "_attributes": {
+          "name": "please_enable_data"
+        },
+        "_text": "请启用手机流量。"
+      },
+      {
+        "_attributes": {
+          "name": "pluto"
+        },
+        "_text": "冥王星"
+      },
+      {
+        "_attributes": {
+          "name": "polish"
+        },
+        "_text": "Polski"
+      },
+      {
+        "_attributes": {
+          "name": "portuguese"
+        },
+        "_text": "Português"
+      },
+      {
+        "_attributes": {
+          "name": "possible_rewards"
+        },
+        "_text": "可能获得的奖励："
+      },
+      {
+        "_attributes": {
+          "name": "preference_copied"
+        },
+        "_text": "已将“%1$s”复制到剪贴板。"
+      },
+      {
+        "_attributes": {
+          "name": "purchase_stabilizer"
+        },
+        "_text": "是否使用 |creditsCost| 现金来购买 6 份 DNA 稳定剂？你目前拥有 |creditsInv| 现金。"
+      },
+      {
+        "_attributes": {
+          "name": "purge"
+        },
+        "_text": "净化"
+      },
+      {
+        "_attributes": {
+          "name": "purify"
+        },
+        "_text": "INFESTED 资源回收"
+      },
+      {
+        "_attributes": {
+          "name": "pursuit"
+        },
+        "_text": "追击"
+      },
+      {
+        "_attributes": {
+          "name": "push_error"
+        },
+        "_text": "推送通知错误。"
+      },
+      {
+        "_attributes": {
+          "name": "push_error_description"
+        },
+        "_text": "更改平台时出现错误。你可能仍会收到 PC 平台的警报。请尝试在设置菜单中切换平台或重新安装应用。"
+      },
+      {
+        "_attributes": {
+          "name": "pushes_disabled_android"
+        },
+        "_text": "推送通知当前为关闭。要应用更改后的筛选器选项，请向上滚动来打开“启用通知”开关。"
+      },
+      {
+        "_attributes": {
+          "name": "pushes_disabled_ios"
+        },
+        "_text": "推送通知当前被禁用，但是可以在 iOS 设置中开启。如果选项不存在，请先确保你登录了 Warframe 账号。"
+      },
+      {
+        "_attributes": {
+          "name": "pushes_turned_off"
+        },
+        "_text": "成功取消推送通知。"
+      },
+      {
+        "_attributes": {
+          "name": "pushes_turned_off_fail"
+        },
+        "_text": "无法取消推送通知。请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "pushnotif_fail"
+        },
+        "_text": "无法开启推送通知。请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "pushnotif_message"
+        },
+        "_text": "推送通知将发送有关特殊警报、新闻条目、铸造厂物品制造完成，以及采集机收集完成的信息。\\n\\n你可以在应用内的设置菜单选择想要推送的类别。"
+      },
+      {
+        "_attributes": {
+          "name": "pushnotif_no"
+        },
+        "_text": "不，谢谢"
+      },
+      {
+        "_attributes": {
+          "name": "pushnotif_success"
+        },
+        "_text": "成功开启推送通知。"
+      },
+      {
+        "_attributes": {
+          "name": "pushnotif_title"
+        },
+        "_text": "开启推送通知。"
+      },
+      {
+        "_attributes": {
+          "name": "put_pet_stasis"
+        },
+        "_text": "将同伴放进冷冻舱"
+      },
+      {
+        "_attributes": {
+          "name": "pvp"
+        },
+        "_text": "武形秘仪"
+      },
+      {
+        "_attributes": {
+          "name": "quills"
+        },
+        "_text": "夜羽"
+      },
+      {
+        "_attributes": {
+          "name": "race"
+        },
+        "_text": "突袭"
+      },
+      {
+        "_attributes": {
+          "name": "radiant"
+        },
+        "_text": "光辉"
+      },
+      {
+        "_attributes": {
+          "name": "radiation_hazard"
+        },
+        "_text": "辐射灾害"
+      },
+      {
+        "_attributes": {
+          "name": "raid"
+        },
+        "_text": "试炼"
+      },
+      {
+        "_attributes": {
+          "name": "range"
+        },
+        "_text": "范围"
+      },
+      {
+        "_attributes": {
+          "name": "rank"
+        },
+        "_text": "等级"
+      },
+      {
+        "_attributes": {
+          "name": "rank_number"
+        },
+        "_text": "等级 |number|"
+      },
+      {
+        "_attributes": {
+          "name": "raptor"
+        },
+        "_text": "猛禽"
+      },
+      {
+        "_attributes": {
+          "name": "rarityLegendary"
+        },
+        "_text": "传奇"
+      },
+      {
+        "_attributes": {
+          "name": "recovered"
+        },
+        "_text": "已恢复"
+      },
+      {
+        "_attributes": {
+          "name": "recovery"
+        },
+        "_text": "重整态势"
+      },
+      {
+        "_attributes": {
+          "name": "redVeil"
+        },
+        "_text": "血色面纱"
+      },
+      {
+        "_attributes": {
+          "name": "red_veil"
+        },
+        "_text": "血色面纱"
+      },
+      {
+        "_attributes": {
+          "name": "refineButtonText"
+        },
+        "_text": "精炼“|refinement|”（|cost|）"
+      },
+      {
+        "_attributes": {
+          "name": "refine_relic"
+        },
+        "_text": "精炼遗物"
+      },
+      {
+        "_attributes": {
+          "name": "refinement"
+        },
+        "_text": "精炼"
+      },
+      {
+        "_attributes": {
+          "name": "relicTitle"
+        },
+        "_text": "|relicName| [|refineLevel|]"
+      },
+      {
+        "_attributes": {
+          "name": "relic_already_refined"
+        },
+        "_text": "这个遗物已经被精炼过！"
+      },
+      {
+        "_attributes": {
+          "name": "relics_instructions"
+        },
+        "_text": "将你的光体用在其它遗物上使其精炼至所需的等级。"
+      },
+      {
+        "_attributes": {
+          "name": "relics_owned"
+        },
+        "_text": "已拥有"
+      },
+      {
+        "_attributes": {
+          "name": "reload"
+        },
+        "_text": "装填"
+      },
+      {
+        "_attributes": {
+          "name": "request_failed"
+        },
+        "_text": "请求失败。"
+      },
+      {
+        "_attributes": {
+          "name": "request_sent"
+        },
+        "_text": "已发送请求"
+      },
+      {
+        "_attributes": {
+          "name": "requiemDefiled"
+        },
+        "_text": "|requiemModName| 污损"
+      },
+      {
+        "_attributes": {
+          "name": "required_hintText"
+        },
+        "_text": "必填"
+      },
+      {
+        "_attributes": {
+          "name": "rescue"
+        },
+        "_text": "救援"
+      },
+      {
+        "_attributes": {
+          "name": "reserved"
+        },
+        "_text": "已保留"
+      },
+      {
+        "_attributes": {
+          "name": "resourceTheft"
+        },
+        "_text": "自由漫游"
+      },
+      {
+        "_attributes": {
+          "name": "restart_app_langauge_change"
+        },
+        "_text": "请重启应用以使更改生效。"
+      },
+      {
+        "_attributes": {
+          "name": "retrieve"
+        },
+        "_text": "取回"
+      },
+      {
+        "_attributes": {
+          "name": "retrieve_from_stasis"
+        },
+        "_text": "你确定要让 |petName| 在轨道飞行器上漫游吗？同一时间内只能有一只激活的宠物。"
+      },
+      {
+        "_attributes": {
+          "name": "retry"
+        },
+        "_text": "重试"
+      },
+      {
+        "_attributes": {
+          "name": "reward"
+        },
+        "_text": "奖励："
+      },
+      {
+        "_attributes": {
+          "name": "reward_pool"
+        },
+        "_text": "奖励池"
+      },
+      {
+        "_attributes": {
+          "name": "rewards"
+        },
+        "_text": "奖励："
+      },
+      {
+        "_attributes": {
+          "name": "right"
+        },
+        "_text": "右"
+      },
+      {
+        "_attributes": {
+          "name": "riven"
+        },
+        "_text": "裂罅"
+      },
+      {
+        "_attributes": {
+          "name": "rivenDisposition"
+        },
+        "_text": "裂罅倾向性"
+      },
+      {
+        "_attributes": {
+          "name": "riven_desc_generic"
+        },
+        "_text": "在我揭开这项造物其中的美妙之前，你必须证明自己是否够格。"
+      },
+      {
+        "_attributes": {
+          "name": "riven_mod"
+        },
+        "_text": "裂罅 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "rn_derelict"
+        },
+        "_text": "遗迹"
+      },
+      {
+        "_attributes": {
+          "name": "rn_sanctuary"
+        },
+        "_text": "圣殿"
+      },
+      {
+        "_attributes": {
+          "name": "rn_void"
+        },
+        "_text": "虚空"
+      },
+      {
+        "_attributes": {
+          "name": "ruk"
+        },
+        "_text": "Sargas Ruk"
+      },
+      {
+        "_attributes": {
+          "name": "rushincubation"
+        },
+        "_text": "加速孵育"
+      },
+      {
+        "_attributes": {
+          "name": "russian"
+        },
+        "_text": "Русский"
+      },
+      {
+        "_attributes": {
+          "name": "sabotage"
+        },
+        "_text": "破坏"
+      },
+      {
+        "_attributes": {
+          "name": "sage"
+        },
+        "_text": "圣者"
+      },
+      {
+        "_attributes": {
+          "name": "salvage"
+        },
+        "_text": "回收"
+      },
+      {
+        "_attributes": {
+          "name": "sanctioned_region"
+        },
+        "_text": "很抱歉，您所在的国家或地区目前无法游玩《Warframe》。"
+      },
+      {
+        "_attributes": {
+          "name": "sanctuary_onslaught"
+        },
+        "_text": "圣殿突袭"
+      },
+      {
+        "_attributes": {
+          "name": "saturn"
+        },
+        "_text": "土星"
+      },
+      {
+        "_attributes": {
+          "name": "search_hintText"
+        },
+        "_text": "Mod 名称"
+      },
+      {
+        "_attributes": {
+          "name": "search_menu_title"
+        },
+        "_text": "搜索"
+      },
+      {
+        "_attributes": {
+          "name": "secondary_only"
+        },
+        "_text": "仅限次要武器"
+      },
+      {
+        "_attributes": {
+          "name": "sector"
+        },
+        "_text": "黑暗地带战争"
+      },
+      {
+        "_attributes": {
+          "name": "sedna"
+        },
+        "_text": "赛德娜"
+      },
+      {
+        "_attributes": {
+          "name": "seeker"
+        },
+        "_text": "探求者"
+      },
+      {
+        "_attributes": {
+          "name": "segment_offline"
+        },
+        "_text": "很遗憾，这个模块已离线。也许我们可以在另一个星球上找到部件。"
+      },
+      {
+        "_attributes": {
+          "name": "select_language"
+        },
+        "_text": "选择语言"
+      },
+      {
+        "_attributes": {
+          "name": "select_location"
+        },
+        "_text": "选择位置"
+      },
+      {
+        "_attributes": {
+          "name": "select_platform"
+        },
+        "_text": "选择平台"
+      },
+      {
+        "_attributes": {
+          "name": "select_theme"
+        },
+        "_text": "选择主题"
+      },
+      {
+        "_attributes": {
+          "name": "selectfilter"
+        },
+        "_text": "选择 Mod 筛选器"
+      },
+      {
+        "_attributes": {
+          "name": "send"
+        },
+        "_text": "发送"
+      },
+      {
+        "_attributes": {
+          "name": "session_in_progress"
+        },
+        "_text": "可能有已在进行中的会话。踢出当前会话并登录？\\n\\n任务进度可能会丢失。"
+      },
+      {
+        "_attributes": {
+          "name": "shadowGuild"
+        },
+        "_text": "暗影"
+      },
+      {
+        "_attributes": {
+          "name": "shield"
+        },
+        "_text": "护盾"
+      },
+      {
+        "_attributes": {
+          "name": "shotgun_only"
+        },
+        "_text": "仅限霰弹枪"
+      },
+      {
+        "_attributes": {
+          "name": "siege"
+        },
+        "_text": "围攻"
+      },
+      {
+        "_attributes": {
+          "name": "silve_novice"
+        },
+        "_text": "白银信徒"
+      },
+      {
+        "_attributes": {
+          "name": "silver_disciple"
+        },
+        "_text": "白银门徒"
+      },
+      {
+        "_attributes": {
+          "name": "silver_dragon"
+        },
+        "_text": "白银天龙"
+      },
+      {
+        "_attributes": {
+          "name": "silver_eagle"
+        },
+        "_text": "白银苍鹰"
+      },
+      {
+        "_attributes": {
+          "name": "silver_hunter"
+        },
+        "_text": "白银巡猎者"
+      },
+      {
+        "_attributes": {
+          "name": "silver_initiate"
+        },
+        "_text": "白银启蒙者"
+      },
+      {
+        "_attributes": {
+          "name": "silver_sage"
+        },
+        "_text": "白银圣者"
+      },
+      {
+        "_attributes": {
+          "name": "silver_seeker"
+        },
+        "_text": "白银探求者"
+      },
+      {
+        "_attributes": {
+          "name": "silver_tiger"
+        },
+        "_text": "白银猎虎"
+      },
+      {
+        "_attributes": {
+          "name": "skirmish"
+        },
+        "_text": "前哨战"
+      },
+      {
+        "_attributes": {
+          "name": "slamAtt"
+        },
+        "_text": "震地攻击"
+      },
+      {
+        "_attributes": {
+          "name": "slamRad"
+        },
+        "_text": "震地范围"
+      },
+      {
+        "_attributes": {
+          "name": "slamRadDmg"
+        },
+        "_text": "震地范围伤害"
+      },
+      {
+        "_attributes": {
+          "name": "slideAtt"
+        },
+        "_text": "滑行攻击"
+      },
+      {
+        "_attributes": {
+          "name": "sniper_only"
+        },
+        "_text": "仅限狙击枪"
+      },
+      {
+        "_attributes": {
+          "name": "solarisUnited"
+        },
+        "_text": "索拉里斯联盟"
+      },
+      {
+        "_attributes": {
+          "name": "sorrow"
+        },
+        "_text": "悲伤"
+      },
+      {
+        "_attributes": {
+          "name": "sortieLevel"
+        },
+        "_text": "等级："
+      },
+      {
+        "_attributes": {
+          "name": "sortieMission"
+        },
+        "_text": "任务："
+      },
+      {
+        "_attributes": {
+          "name": "sorties_will_award"
+        },
+        "_text": "完成全部 3 项突击任务将奖励其中一件物品："
+      },
+      {
+        "_attributes": {
+          "name": "sound"
+        },
+        "_text": "声音"
+      },
+      {
+        "_attributes": {
+          "name": "spanish"
+        },
+        "_text": "Español"
+      },
+      {
+        "_attributes": {
+          "name": "special_alerts"
+        },
+        "_text": "特别警报"
+      },
+      {
+        "_attributes": {
+          "name": "sprintspd"
+        },
+        "_text": "冲刺"
+      },
+      {
+        "_attributes": {
+          "name": "spy"
+        },
+        "_text": "间谍"
+      },
+      {
+        "_attributes": {
+          "name": "staffAccolade"
+        },
+        "_text": "工作人员\\nDigital Extremes"
+      },
+      {
+        "_attributes": {
+          "name": "stalker"
+        },
+        "_text": "追猎者"
+      },
+      {
+        "_attributes": {
+          "name": "stalkerTheme"
+        },
+        "_text": "追猎者"
+      },
+      {
+        "_attributes": {
+          "name": "stasis"
+        },
+        "_text": "冷冻舱"
+      },
+      {
+        "_attributes": {
+          "name": "stasislc"
+        },
+        "_text": "冷冻舱"
+      },
+      {
+        "_attributes": {
+          "name": "status"
+        },
+        "_text": "异常状态"
+      },
+      {
+        "_attributes": {
+          "name": "status_bar_notification_info_overflow"
+        },
+        "_text": "999+"
+      },
+      {
+        "_attributes": {
+          "name": "steamSignIn"
+        },
+        "_text": "使用 Steam 登录"
+      },
+      {
+        "_attributes": {
+          "name": "steelMeridian"
+        },
+        "_text": "钢铁防线"
+      },
+      {
+        "_attributes": {
+          "name": "steelPath"
+        },
+        "_text": "钢铁之路"
+      },
+      {
+        "_attributes": {
+          "name": "stormGuild"
+        },
+        "_text": "风暴"
+      },
+      {
+        "_attributes": {
+          "name": "strataRelay"
+        },
+        "_text": "Strata 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "summary_collapsed_preference_list"
+        },
+        "_text": "%1$s、%2$s"
+      },
+      {
+        "_attributes": {
+          "name": "survival"
+        },
+        "_text": "生存"
+      },
+      {
+        "_attributes": {
+          "name": "switch_not_authorized"
+        },
+        "_text": "你的 Warframe 账号可能还未在你的 Nintendo Switch 主机上得到授权。请按以下步骤来授权你的账号：\\n\\n"
+      },
+      {
+        "_attributes": {
+          "name": "switch_not_authorized_1"
+        },
+        "_text": "1) 在 Switch 上登录 Warframe。\\n"
+      },
+      {
+        "_attributes": {
+          "name": "switch_not_authorized_2"
+        },
+        "_text": "2) 通过按下“+”按钮打开菜单。\\n"
+      },
+      {
+        "_attributes": {
+          "name": "switch_not_authorized_3"
+        },
+        "_text": "3) 选择“简介”。\\n"
+      },
+      {
+        "_attributes": {
+          "name": "switch_not_authorized_4"
+        },
+        "_text": "4) 选择“网络身份验证”。"
+      },
+      {
+        "_attributes": {
+          "name": "syndicateMedalions"
+        },
+        "_text": "勋章"
+      },
+      {
+        "_attributes": {
+          "name": "tab_Circuit"
+        },
+        "_text": "无尽回廊"
+      },
+      {
+        "_attributes": {
+          "name": "tab_alerts"
+        },
+        "_text": "警报"
+      },
+      {
+        "_attributes": {
+          "name": "tab_all"
+        },
+        "_text": "全部"
+      },
+      {
+        "_attributes": {
+          "name": "tab_appearance"
+        },
+        "_text": "外观"
+      },
+      {
+        "_attributes": {
+          "name": "tab_arcanes"
+        },
+        "_text": "赋能"
+      },
+      {
+        "_attributes": {
+          "name": "tab_archgun"
+        },
+        "_text": "曲翼枪械"
+      },
+      {
+        "_attributes": {
+          "name": "tab_archmelee"
+        },
+        "_text": "曲翼近战"
+      },
+      {
+        "_attributes": {
+          "name": "tab_archweapons"
+        },
+        "_text": "曲翼武器"
+      },
+      {
+        "_attributes": {
+          "name": "tab_archwing"
+        },
+        "_text": "曲翼"
+      },
+      {
+        "_attributes": {
+          "name": "tab_archwings"
+        },
+        "_text": "曲翼"
+      },
+      {
+        "_attributes": {
+          "name": "tab_augments"
+        },
+        "_text": "技能强化 Mod"
+      },
+      {
+        "_attributes": {
+          "name": "tab_aura"
+        },
+        "_text": "光环"
+      },
+      {
+        "_attributes": {
+          "name": "tab_clocks"
+        },
+        "_text": "世界循环状态"
+      },
+      {
+        "_attributes": {
+          "name": "tab_companions"
+        },
+        "_text": "同伴"
+      },
+      {
+        "_attributes": {
+          "name": "tab_exilus"
+        },
+        "_text": "特殊功能类"
+      },
+      {
+        "_attributes": {
+          "name": "tab_extractors"
+        },
+        "_text": "采集机"
+      },
+      {
+        "_attributes": {
+          "name": "tab_focus"
+        },
+        "_text": "专精"
+      },
+      {
+        "_attributes": {
+          "name": "tab_gear"
+        },
+        "_text": "装备"
+      },
+      {
+        "_attributes": {
+          "name": "tab_imprints"
+        },
+        "_text": "印记"
+      },
+      {
+        "_attributes": {
+          "name": "tab_inprogress"
+        },
+        "_text": "进行中"
+      },
+      {
+        "_attributes": {
+          "name": "tab_invasions"
+        },
+        "_text": "入侵"
+      },
+      {
+        "_attributes": {
+          "name": "tab_kdrive"
+        },
+        "_text": "K 式悬浮板"
+      },
+      {
+        "_attributes": {
+          "name": "tab_keys"
+        },
+        "_text": "按键"
+      },
+      {
+        "_attributes": {
+          "name": "tab_melee"
+        },
+        "_text": "近战武器"
+      },
+      {
+        "_attributes": {
+          "name": "tab_misc"
+        },
+        "_text": "杂项"
+      },
+      {
+        "_attributes": {
+          "name": "tab_mods"
+        },
+        "_text": "Mod"
+      },
+      {
+        "_attributes": {
+          "name": "tab_modular"
+        },
+        "_text": "模块"
+      },
+      {
+        "_attributes": {
+          "name": "tab_nightwave"
+        },
+        "_text": "午夜电波"
+      },
+      {
+        "_attributes": {
+          "name": "tab_parazon"
+        },
+        "_text": "灭骸之刃"
+      },
+      {
+        "_attributes": {
+          "name": "tab_primary"
+        },
+        "_text": "主要武器"
+      },
+      {
+        "_attributes": {
+          "name": "tab_primeparts"
+        },
+        "_text": "Prime 部件"
+      },
+      {
+        "_attributes": {
+          "name": "tab_readytobuild"
+        },
+        "_text": "准备好打造"
+      },
+      {
+        "_attributes": {
+          "name": "tab_resources"
+        },
+        "_text": "资源"
+      },
+      {
+        "_attributes": {
+          "name": "tab_robotics"
+        },
+        "_text": "机器人"
+      },
+      {
+        "_attributes": {
+          "name": "tab_secondary"
+        },
+        "_text": "次要武器"
+      },
+      {
+        "_attributes": {
+          "name": "tab_sentinels"
+        },
+        "_text": "守护"
+      },
+      {
+        "_attributes": {
+          "name": "tab_sorties"
+        },
+        "_text": "突击任务"
+      },
+      {
+        "_attributes": {
+          "name": "tab_stance"
+        },
+        "_text": "架式"
+      },
+      {
+        "_attributes": {
+          "name": "tab_syndicates"
+        },
+        "_text": "集团"
+      },
+      {
+        "_attributes": {
+          "name": "tab_vehicles"
+        },
+        "_text": "载具"
+      },
+      {
+        "_attributes": {
+          "name": "tab_voidfissures"
+        },
+        "_text": "虚空裂缝"
+      },
+      {
+        "_attributes": {
+          "name": "tab_warframe"
+        },
+        "_text": "战甲"
+      },
+      {
+        "_attributes": {
+          "name": "tab_warframes"
+        },
+        "_text": "战甲"
+      },
+      {
+        "_attributes": {
+          "name": "tab_weapons"
+        },
+        "_text": "武器"
+      },
+      {
+        "_attributes": {
+          "name": "tapToExpand"
+        },
+        "_text": "轻按以展开"
+      },
+      {
+        "_attributes": {
+          "name": "tapToHide"
+        },
+        "_text": "轻按以隐藏"
+      },
+      {
+        "_attributes": {
+          "name": "tennoTheme"
+        },
+        "_text": "Tenno"
+      },
+      {
+        "_attributes": {
+          "name": "tennoconRelay"
+        },
+        "_text": "TennoCon 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "thai"
+        },
+        "_text": "ไทย"
+      },
+      {
+        "_attributes": {
+          "name": "themes"
+        },
+        "_text": "主题"
+      },
+      {
+        "_attributes": {
+          "name": "three_day_booster"
+        },
+        "_text": "3 天加成"
+      },
+      {
+        "_attributes": {
+          "name": "tierTitle"
+        },
+        "_text": "等级：|guildTier|"
+      },
+      {
+        "_attributes": {
+          "name": "tiger"
+        },
+        "_text": "猎虎"
+      },
+      {
+        "_attributes": {
+          "name": "time_1m"
+        },
+        "_text": "< 1 分"
+      },
+      {
+        "_attributes": {
+          "name": "time_d"
+        },
+        "_text": "天 "
+      },
+      {
+        "_attributes": {
+          "name": "time_h"
+        },
+        "_text": "小时 "
+      },
+      {
+        "_attributes": {
+          "name": "time_hour"
+        },
+        "_text": "小时"
+      },
+      {
+        "_attributes": {
+          "name": "time_hours"
+        },
+        "_text": "小时"
+      },
+      {
+        "_attributes": {
+          "name": "time_m"
+        },
+        "_text": "分 "
+      },
+      {
+        "_attributes": {
+          "name": "time_minute"
+        },
+        "_text": "分钟"
+      },
+      {
+        "_attributes": {
+          "name": "time_remaining"
+        },
+        "_text": "制造完成剩余时间："
+      },
+      {
+        "_attributes": {
+          "name": "time_s"
+        },
+        "_text": "秒"
+      },
+      {
+        "_attributes": {
+          "name": "time_second"
+        },
+        "_text": "秒"
+      },
+      {
+        "_attributes": {
+          "name": "time_seconds"
+        },
+        "_text": "秒"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate1"
+        },
+        "_text": "有原则的"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate2"
+        },
+        "_text": "真实"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate3"
+        },
+        "_text": "守序的"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate4"
+        },
+        "_text": "改革者"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate5"
+        },
+        "_text": "格言"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate_1"
+        },
+        "_text": "欺诈者"
+      },
+      {
+        "_attributes": {
+          "name": "titleArbitersSyndicate_2"
+        },
+        "_text": "骗局"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate1"
+        },
+        "_text": "主管"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate2"
+        },
+        "_text": "奇妙"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate3"
+        },
+        "_text": "聪明"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate4"
+        },
+        "_text": "智者"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate5"
+        },
+        "_text": "天才"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate_1"
+        },
+        "_text": "瓦砾"
+      },
+      {
+        "_attributes": {
+          "name": "titleCephalonSudaSyndicate_2"
+        },
+        "_text": "废物"
+      },
+      {
+        "_attributes": {
+          "name": "titleCetusSyndicate1"
+        },
+        "_text": "异世者"
+      },
+      {
+        "_attributes": {
+          "name": "titleCetusSyndicate2"
+        },
+        "_text": "访客"
+      },
+      {
+        "_attributes": {
+          "name": "titleCetusSyndicate3"
+        },
+        "_text": "受到信任"
+      },
+      {
+        "_attributes": {
+          "name": "titleCetusSyndicate4"
+        },
+        "_text": "苏拉（朋友）"
+      },
+      {
+        "_attributes": {
+          "name": "titleCetusSyndicate5"
+        },
+        "_text": "情同手足"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiLabSyndicate1"
+        },
+        "_text": "助手"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiLabSyndicate2"
+        },
+        "_text": "研究者"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiLabSyndicate3"
+        },
+        "_text": "同事"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiLabSyndicate4"
+        },
+        "_text": "学者"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiLabSyndicate5"
+        },
+        "_text": "启迪者"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiSyndicate1"
+        },
+        "_text": "陌生人"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiSyndicate2"
+        },
+        "_text": "相识"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiSyndicate3"
+        },
+        "_text": "助理"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiSyndicate4"
+        },
+        "_text": "好友"
+      },
+      {
+        "_attributes": {
+          "name": "titleEntratiSyndicate5"
+        },
+        "_text": "家人"
+      },
+      {
+        "_attributes": {
+          "name": "titleHexSyndicate1"
+        },
+        "_text": "吃剩的披萨"
+      },
+      {
+        "_attributes": {
+          "name": "titleHexSyndicate2"
+        },
+        "_text": "现烤披萨片"
+      },
+      {
+        "_attributes": {
+          "name": "titleHexSyndicate3"
+        },
+        "_text": "双份惊喜"
+      },
+      {
+        "_attributes": {
+          "name": "titleHexSyndicate4"
+        },
+        "_text": "新鲜出炉"
+      },
+      {
+        "_attributes": {
+          "name": "titleHexSyndicate5"
+        },
+        "_text": "披萨派对"
+      },
+      {
+        "_attributes": {
+          "name": "titleNecraloidSyndicate1"
+        },
+        "_text": "信任等级：见习者"
+      },
+      {
+        "_attributes": {
+          "name": "titleNecraloidSyndicate2"
+        },
+        "_text": "信任等级：模仿者"
+      },
+      {
+        "_attributes": {
+          "name": "titleNecraloidSyndicate3"
+        },
+        "_text": "信任等级：探索者"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate1"
+        },
+        "_text": "人道"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate2"
+        },
+        "_text": "丰富多样的"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate3"
+        },
+        "_text": "仁者"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate4"
+        },
+        "_text": "纯洁"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate5"
+        },
+        "_text": "无瑕"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate_1"
+        },
+        "_text": "受谴责的"
+      },
+      {
+        "_attributes": {
+          "name": "titleNewLokaSyndicate_2"
+        },
+        "_text": "被放逐的"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate1"
+        },
+        "_text": "助理"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate2"
+        },
+        "_text": "高级助理"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate3"
+        },
+        "_text": "执行者"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate4"
+        },
+        "_text": "高级执行者"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate5"
+        },
+        "_text": "伙伴"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate_1"
+        },
+        "_text": "赔责"
+      },
+      {
+        "_attributes": {
+          "name": "titlePerrinSyndicate_2"
+        },
+        "_text": "注销"
+      },
+      {
+        "_attributes": {
+          "name": "titleQuillsSyndicate1"
+        },
+        "_text": "微尘"
+      },
+      {
+        "_attributes": {
+          "name": "titleQuillsSyndicate2"
+        },
+        "_text": "观察者"
+      },
+      {
+        "_attributes": {
+          "name": "titleQuillsSyndicate3"
+        },
+        "_text": "信徒"
+      },
+      {
+        "_attributes": {
+          "name": "titleQuillsSyndicate4"
+        },
+        "_text": "乐器"
+      },
+      {
+        "_attributes": {
+          "name": "titleQuillsSyndicate5"
+        },
+        "_text": "构筑师"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate1"
+        },
+        "_text": "受尊重的"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate2"
+        },
+        "_text": "荣耀的"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate3"
+        },
+        "_text": "尊敬的"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate4"
+        },
+        "_text": "崇敬的"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate5"
+        },
+        "_text": "崇高的"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate_1"
+        },
+        "_text": "嫌疑"
+      },
+      {
+        "_attributes": {
+          "name": "titleRedVeilSyndicate_2"
+        },
+        "_text": "腐败"
+      },
+      {
+        "_attributes": {
+          "name": "titleSolarisSyndicate1"
+        },
+        "_text": "异世者"
+      },
+      {
+        "_attributes": {
+          "name": "titleSolarisSyndicate2"
+        },
+        "_text": "无赖"
+      },
+      {
+        "_attributes": {
+          "name": "titleSolarisSyndicate3"
+        },
+        "_text": "实践者"
+      },
+      {
+        "_attributes": {
+          "name": "titleSolarisSyndicate4"
+        },
+        "_text": "家伙"
+      },
+      {
+        "_attributes": {
+          "name": "titleSolarisSyndicate5"
+        },
+        "_text": "老朋友"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate1"
+        },
+        "_text": "勇气"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate2"
+        },
+        "_text": "英勇"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate3"
+        },
+        "_text": "防御者"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate4"
+        },
+        "_text": "保卫者"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate5"
+        },
+        "_text": "大将"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate_1"
+        },
+        "_text": "不被认同"
+      },
+      {
+        "_attributes": {
+          "name": "titleSteelMeridianSyndicate_2"
+        },
+        "_text": "敌人"
+      },
+      {
+        "_attributes": {
+          "name": "titleSyndicate0"
+        },
+        "_text": "中立"
+      },
+      {
+        "_attributes": {
+          "name": "titleVentKidsSyndicate1"
+        },
+        "_text": "闪闪"
+      },
+      {
+        "_attributes": {
+          "name": "titleVentKidsSyndicate2"
+        },
+        "_text": "你谁啊"
+      },
+      {
+        "_attributes": {
+          "name": "titleVentKidsSyndicate3"
+        },
+        "_text": "行家里手"
+      },
+      {
+        "_attributes": {
+          "name": "titleVentKidsSyndicate4"
+        },
+        "_text": "一级棒"
+      },
+      {
+        "_attributes": {
+          "name": "titleVentKidsSyndicate5"
+        },
+        "_text": "义亲"
+      },
+      {
+        "_attributes": {
+          "name": "titleVoxSyndicate1"
+        },
+        "_text": "探员"
+      },
+      {
+        "_attributes": {
+          "name": "titleVoxSyndicate2"
+        },
+        "_text": "特工"
+      },
+      {
+        "_attributes": {
+          "name": "titleVoxSyndicate3"
+        },
+        "_text": "刽子手"
+      },
+      {
+        "_attributes": {
+          "name": "titleVoxSyndicate4"
+        },
+        "_text": "无影手"
+      },
+      {
+        "_attributes": {
+          "name": "titleVoxSyndicate5"
+        },
+        "_text": "幕后推手"
+      },
+      {
+        "_attributes": {
+          "name": "titleZarimanSyndicate1"
+        },
+        "_text": "堕天使"
+      },
+      {
+        "_attributes": {
+          "name": "titleZarimanSyndicate2"
+        },
+        "_text": "守望天使"
+      },
+      {
+        "_attributes": {
+          "name": "titleZarimanSyndicate3"
+        },
+        "_text": "守护者"
+      },
+      {
+        "_attributes": {
+          "name": "titleZarimanSyndicate4"
+        },
+        "_text": "炽天使"
+      },
+      {
+        "_attributes": {
+          "name": "titleZarimanSyndicate5"
+        },
+        "_text": "大天使"
+      },
+      {
+        "_attributes": {
+          "name": "too_many_login_failures"
+        },
+        "_text": "登录失败次数过多；请稍后再试。"
+      },
+      {
+        "_attributes": {
+          "name": "totalDmg"
+        },
+        "_text": "总计伤害"
+      },
+      {
+        "_attributes": {
+          "name": "trigger"
+        },
+        "_text": "扳机"
+      },
+      {
+        "_attributes": {
+          "name": "troubleshooting"
+        },
+        "_text": "故障排查"
+      },
+      {
+        "_attributes": {
+          "name": "turkish"
+        },
+        "_text": "Türkçe"
+      },
+      {
+        "_attributes": {
+          "name": "tyl"
+        },
+        "_text": "Tyl Regor"
+      },
+      {
+        "_attributes": {
+          "name": "ukraine"
+        },
+        "_text": "Українська"
+      },
+      {
+        "_attributes": {
+          "name": "unableToRush"
+        },
+        "_text": "无法加速孵化。"
+      },
+      {
+        "_attributes": {
+          "name": "unable_complete_purchase"
+        },
+        "_text": "无法完成购买。"
+      },
+      {
+        "_attributes": {
+          "name": "unable_to_autolog"
+        },
+        "_text": "无法自动登录。"
+      },
+      {
+        "_attributes": {
+          "name": "unable_to_name"
+        },
+        "_text": "无法命名同伴。请再试一次。"
+      },
+      {
+        "_attributes": {
+          "name": "unnamedcompanion"
+        },
+        "_text": "未命名的同伴"
+      },
+      {
+        "_attributes": {
+          "name": "unranked"
+        },
+        "_text": "无等级"
+      },
+      {
+        "_attributes": {
+          "name": "updateChalProgError"
+        },
+        "_text": "无法更新成就进度"
+      },
+      {
+        "_attributes": {
+          "name": "update_failed"
+        },
+        "_text": "更新失败"
+      },
+      {
+        "_attributes": {
+          "name": "update_required"
+        },
+        "_text": "需要更新"
+      },
+      {
+        "_attributes": {
+          "name": "upgrade"
+        },
+        "_text": "升级"
+      },
+      {
+        "_attributes": {
+          "name": "uranus"
+        },
+        "_text": "天王星"
+      },
+      {
+        "_attributes": {
+          "name": "use_cell_data"
+        },
+        "_text": "使用手机流量"
+      },
+      {
+        "_attributes": {
+          "name": "userName"
+        },
+        "_text": "玩家昵称"
+      },
+      {
+        "_attributes": {
+          "name": "v7_preference_off"
+        },
+        "_text": "关闭"
+      },
+      {
+        "_attributes": {
+          "name": "v7_preference_on"
+        },
+        "_text": "开启"
+      },
+      {
+        "_attributes": {
+          "name": "veiled"
+        },
+        "_text": "尚未揭开"
+      },
+      {
+        "_attributes": {
+          "name": "ventKids"
+        },
+        "_text": "通风小子"
+      },
+      {
+        "_attributes": {
+          "name": "venus"
+        },
+        "_text": "金星"
+      },
+      {
+        "_attributes": {
+          "name": "version"
+        },
+        "_text": "版本"
+      },
+      {
+        "_attributes": {
+          "name": "vesperRelay"
+        },
+        "_text": "Vesper 中继站"
+      },
+      {
+        "_attributes": {
+          "name": "vibration"
+        },
+        "_text": "振动"
+      },
+      {
+        "_attributes": {
+          "name": "viewTennoconRelay"
+        },
+        "_text": "查看 Baro Ki\\'Teer 的 TennoCon 商品"
+      },
+      {
+        "_attributes": {
+          "name": "viewWeeklyRelay"
+        },
+        "_text": "查看每周 Baro Ki\\'Teer 的商品"
+      },
+      {
+        "_attributes": {
+          "name": "vitruvianTheme"
+        },
+        "_text": "维特鲁威"
+      },
+      {
+        "_attributes": {
+          "name": "voidCascade"
+        },
+        "_text": "虚空覆涌"
+      },
+      {
+        "_attributes": {
+          "name": "void_traces"
+        },
+        "_text": "虚空光体"
+      },
+      {
+        "_attributes": {
+          "name": "vome"
+        },
+        "_text": "“秩序”"
+      },
+      {
+        "_attributes": {
+          "name": "vor"
+        },
+        "_text": "Vor 上尉"
+      },
+      {
+        "_attributes": {
+          "name": "voxSolaris"
+        },
+        "_text": "索拉里斯之声"
+      },
+      {
+        "_attributes": {
+          "name": "warm"
+        },
+        "_text": "温暖"
+      },
+      {
+        "_attributes": {
+          "name": "warning"
+        },
+        "_text": "警告"
+      },
+      {
+        "_attributes": {
+          "name": "welcome"
+        },
+        "_text": "欢迎"
+      },
+      {
+        "_attributes": {
+          "name": "windUp"
+        },
+        "_text": "准备时间"
+      },
+      {
+        "_attributes": {
+          "name": "workshop"
+        },
+        "_text": "工坊"
+      },
+      {
+        "_attributes": {
+          "name": "xboxSignIn"
+        },
+        "_text": "使用 Xbox 登录"
+      },
+      {
+        "_attributes": {
+          "name": "yes"
+        },
+        "_text": "是"
+      },
+      {
+        "_attributes": {
+          "name": "youAreLoggedIn"
+        },
+        "_text": "你已登录。"
+      },
+      {
+        "_attributes": {
+          "name": "zanuka"
+        },
+        "_text": "Zenuka"
+      },
+      {
+        "_attributes": {
+          "name": "zaw_description"
+        },
+        "_text": "一把从许多种可选部件中挑选组合而成的自定义武器。只有希图斯的 Hok 可以组装。"
+      },
+      {
+        "_attributes": {
+          "name": "zephyrHarrierTheme"
+        },
+        "_text": "Zephyr 鹞式"
+      }
+    ]
+  }
+}
