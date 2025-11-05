@@ -3,11 +3,10 @@ package moe.imoli.mbot.cloud.warframe.service
 import com.fasterxml.jackson.databind.ObjectMapper
 import moe.imoli.mbot.cloud.warframe.data.entity.WarframeNode
 import moe.imoli.mbot.cloud.warframe.data.entity.WarframeNodeRepository
-import moe.imoli.mbot.cloud.warframe.data.entity.WarframeResource
-import moe.imoli.mbot.cloud.warframe.data.entity.WarframeResourceRepository
 import moe.imoli.mbot.cloud.warframe.webclient.WarframeContent
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
+import java.io.File
 
 @Service
 class NodeService {
@@ -21,32 +20,22 @@ class NodeService {
 
     private val mapper = ObjectMapper()
 
-    fun init() {
-        val manifest = content.index()!!
-        val resourceList = arrayListOf<WarframeNode>()
-        mapper.readTree(
-            content.manifest(
-                manifest.replace("\r", "")
-                    .split("\n")
-                    .find { it.startsWith("ExportRegions") }
-            )
-        ).get("ExportRegions")
-            .forEach { node ->
-                resourceList.add(WarframeNode().apply {
-                    this.uniqueName = node.get("uniqueName").asText()
-                    this.name = node.get("name").asText()
-                    this.systemName = node.get("systemName").asText()
-                    this.nodeType = node.get("nodeType").asInt()
-                    this.masteryReq = node.get("masteryReq").asInt()
-                    this.missionIndex = node.get("missionIndex").asInt()
-                    this.factionIndex = node.get("factionIndex").asInt()
-                    this.minEnemyLevel = node.get("minEnemyLevel").asInt()
-                    this.maxEnemyLevel = node.get("maxEnemyLevel").asInt()
-                })
-            }
+    fun init(lang: String = "zh") {
+        val file = File("warframe-worldstate-data/data/$lang/solNodes.json")
+        val data = mapper.readTree(file)
+        val list = arrayListOf<WarframeNode>()
+        data.properties().forEach { property ->
+            list.add(WarframeNode().apply {
+                this.uniqueName = property.key
+                this.name = property.value.get("value").asText()
+                if (property.value.has("enemy"))
+                    this.enemy = property.value.get("enemy").asText()
+                if (property.value.has("type"))
+                    this.type = property.value.get("type").asText()
+            })
+        }
 
-        nodeRepository.saveOrUpdateBatch(resourceList, resourceList.size)
-
+        nodeRepository.saveOrUpdateBatch(list, list.size)
 
     }
 

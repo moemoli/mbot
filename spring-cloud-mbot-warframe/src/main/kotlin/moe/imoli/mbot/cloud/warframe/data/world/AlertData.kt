@@ -6,7 +6,6 @@ data class AlertData(
     var expire: Long,
     var tag: String,
     var location: String,
-    var system: String,
     var type: String,
     var faction: String,
     var difficulty: Int,

@@ -4,7 +4,6 @@ data class InvasionData(
 
     var start: Long,
     var location: String,
-    var system: String,
     var attack: InvasionMissionInfo,
     var defend: InvasionMissionInfo,
     var completed: Boolean,

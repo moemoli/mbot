@@ -31,23 +31,8 @@ public class WarframeNode {
     public String name;
     @Column
     @TableField
-    public String systemName;
+    public String enemy;
     @Column
     @TableField
-    public int nodeType;
-    @Column
-    @TableField
-    public int masteryReq;
-    @Column
-    @TableField
-    public int missionIndex;
-    @Column
-    @TableField
-    public int factionIndex;
-    @Column
-    @TableField
-    public int minEnemyLevel;
-    @Column
-    @TableField
-    public int maxEnemyLevel;
+    public String type;
 }

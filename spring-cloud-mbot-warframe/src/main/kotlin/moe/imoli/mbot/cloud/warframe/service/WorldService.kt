@@ -6,6 +6,7 @@ import moe.imoli.mbot.cloud.warframe.data.WarframeTypes
 import moe.imoli.mbot.cloud.warframe.data.world.AlertData
 import moe.imoli.mbot.cloud.warframe.data.world.AlertReward
 import moe.imoli.mbot.cloud.warframe.data.world.AlertRewardItem
+import moe.imoli.mbot.cloud.warframe.data.world.FissureData
 import moe.imoli.mbot.cloud.warframe.data.world.InvasionData
 import moe.imoli.mbot.cloud.warframe.data.world.InvasionMissionInfo
 import moe.imoli.mbot.cloud.warframe.data.world.InvasionRewardItem
@@ -37,6 +38,7 @@ class WorldService {
 
     fun all(): JsonNode = worldState
 
+
     fun invasions(): List<InvasionData> {
         val invasions = worldState.get("Invasions")
         val data = arrayListOf<InvasionData>()
@@ -46,7 +48,7 @@ class WorldService {
                 InvasionData(
                     node.get("Activation").get("\$date").get("\$numberLong").asLong(),
                     location.name,
-                    location.systemName,
+
                     attack = InvasionMissionInfo(
                         localeService.find(
                             WarframeTypes.Faction
@@ -106,6 +108,27 @@ class WorldService {
         return data
     }
 
+    fun fissure(): List<FissureData> {
+        val fissure = worldState.get("ActiveMissions")
+        val data = arrayListOf<FissureData>()
+        fissure.forEach { node ->
+            data.add(
+                FissureData(
+                    node.get("Activation").get("\$date").get("\$numberLong").asLong(),
+                    node.get("Expiry").get("\$date").get("\$numberLong").asLong(),
+                    node.get("Seed").asLong(),
+                    node.get("Region").asInt(),
+                    nodeService.find(node.get("Node").asText())?.name ?: node.get("Node").asText(),
+                    localeService.find(node.get("Modifier").asText())?.lvalue ?: node.get("Modifier").asText(),
+                    localeService.find(node.get("MissionType").asText())?.lvalue ?: node.get("MissionType").asText(),
+                    node.has("Hard") && node.get("Hard").asBoolean(),
+
+                    )
+            )
+        }
+        return data
+    }
+
     fun alert(): List<AlertData> {
         val alerts = worldState.get("Alerts")
         val data = arrayListOf<AlertData>()
@@ -117,7 +140,6 @@ class WorldService {
                     node.get("Expiry").get("\$date").get("\$numberLong").asLong(),
                     node.get("Tag").asText(),
                     location.name,
-                    location.systemName,
                     localeService.find(
                         WarframeTypes.Mission
                             .valueOf(

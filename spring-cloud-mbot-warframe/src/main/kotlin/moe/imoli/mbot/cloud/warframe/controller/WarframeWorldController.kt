@@ -31,4 +31,9 @@ class WarframeWorldController {
     fun invasions(): ResponseData {
         return ResponseData.success(worldService.invasions())
     }
+
+    @RequestMapping("fissure")
+    fun fissure(): ResponseData {
+        return ResponseData.success(worldService.fissure())
+    }
 }

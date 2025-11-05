@@ -48,7 +48,6 @@ class ResourceService {
     }
 
     fun find(uniqueName: String): WarframeResource? {
-        println("try find resource: $uniqueName")
         return resourceRepository.query().eq("unique_name", uniqueName).one()
     }
 
