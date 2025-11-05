@@ -36,4 +36,9 @@ class WarframeWorldController {
     fun fissure(): ResponseData {
         return ResponseData.success(worldService.fissure())
     }
+
+    @RequestMapping("voidStorms")
+    fun voidStorms(): ResponseData {
+        return ResponseData.success(worldService.voidStorms())
+    }
 }

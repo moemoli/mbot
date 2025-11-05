@@ -70,6 +70,6 @@ class LocaleService {
     fun find(key: String): WarframeLocale? {
         return localeRepository.query()
             .eq("lkey", key)
-            .one()
+            .list()[0]
     }
 }

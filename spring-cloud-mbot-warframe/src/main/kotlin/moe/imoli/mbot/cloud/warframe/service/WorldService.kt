@@ -3,16 +3,11 @@ package moe.imoli.mbot.cloud.warframe.service
 import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.databind.ObjectMapper
 import moe.imoli.mbot.cloud.warframe.data.WarframeTypes
-import moe.imoli.mbot.cloud.warframe.data.world.AlertData
-import moe.imoli.mbot.cloud.warframe.data.world.AlertReward
-import moe.imoli.mbot.cloud.warframe.data.world.AlertRewardItem
-import moe.imoli.mbot.cloud.warframe.data.world.FissureData
-import moe.imoli.mbot.cloud.warframe.data.world.InvasionData
-import moe.imoli.mbot.cloud.warframe.data.world.InvasionMissionInfo
-import moe.imoli.mbot.cloud.warframe.data.world.InvasionRewardItem
+import moe.imoli.mbot.cloud.warframe.data.world.*
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import org.springframework.web.reactive.function.client.WebClient
+import kotlin.collections.forEach
 
 @Service
 class WorldService {
@@ -28,7 +23,8 @@ class WorldService {
     lateinit var nodeService: NodeService
 
     private val mapper = ObjectMapper()
-    private val worldState = mapper.readTree(
+
+    fun worldState(lang: String = "zh"): JsonNode = mapper.readTree(
         WebClient.create("https://api.warframe.com/cdn/worldState.php")
             .get()
             .retrieve()
@@ -36,11 +32,36 @@ class WorldService {
             .block()
     )
 
-    fun all(): JsonNode = worldState
+    fun all(): JsonNode {
+        return worldState()
+    }
+
+    fun voidStorms(): List<FissureData> {
+        val voidStorms = worldState().get("VoidStorms")
+        val data = arrayListOf<FissureData>()
+        voidStorms.forEach { node ->
+            data.add(
+                FissureData(
+                    node.get("Activation").get("\$date").get("\$numberLong").asLong(),
+                    node.get("Expiry").get("\$date").get("\$numberLong").asLong(),
+                    -1,
+                    -1,
+                    nodeService.find(node.get("Node").asText())?.name ?: node.get("Node").asText(),
+                    localeService.find(node.get("ActiveMissionTier").asText())?.lvalue ?: node.get("ActiveMissionTier")
+                        .asText(),
+                    nodeService.find(node.get("Node").asText())?.type ?: node.get("Node").asText(),
+                    node.has("Hard") && node.get("Hard").asBoolean(),
+
+                    )
+            )
+        }
+        return data
+    }
 
 
     fun invasions(): List<InvasionData> {
-        val invasions = worldState.get("Invasions")
+        val invasions = worldState().get("Invasions")
+
         val data = arrayListOf<InvasionData>()
         invasions.forEach { node ->
             val location = nodeService.find(node.get("Node").asText())!!
@@ -109,7 +130,7 @@ class WorldService {
     }
 
     fun fissure(): List<FissureData> {
-        val fissure = worldState.get("ActiveMissions")
+        val fissure = worldState().get("ActiveMissions")
         val data = arrayListOf<FissureData>()
         fissure.forEach { node ->
             data.add(
@@ -130,7 +151,7 @@ class WorldService {
     }
 
     fun alert(): List<AlertData> {
-        val alerts = worldState.get("Alerts")
+        val alerts = worldState().get("Alerts")
         val data = arrayListOf<AlertData>()
         alerts.forEach { node ->
             val location = nodeService.find(node.get("MissionInfo").get("location").asText())!!
